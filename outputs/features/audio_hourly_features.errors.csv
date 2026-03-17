@@ -1,0 +1,2 @@
+file_path,error
+data\audio\hive_04\03\07\hive_04_20260307_195541.flac,n_fft=16000 is too large for uncentered analysis of input signal of length=2752

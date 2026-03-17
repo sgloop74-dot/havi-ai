@@ -1,0 +1,5 @@
+data/audio/
+data/sensors/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
