@@ -1,56 +1,72 @@
-# HiveNavigator Findings (Draft)
+# HiveNavigator Findings
 
-## Objective
-Identify unsupervised acoustic and multimodal patterns that may indicate queenless hive windows, focusing on `hive_03` and `hive_04`, without supervised labels.
+## Data
+The analysis uses hive audio recordings plus available sensor and accelerometer logs. Audio-derived and multimodal features were merged to hourly granularity in UTC and used for unsupervised modeling. The final clustering frame contains 1316 hourly rows.
 
-## Data and Features
-- Audio hourly features extracted from FLAC recordings (spectral, MFCC, band-power statistics).
-- Modulation features extracted from time-varying spectra.
-- Sensor and accelerometer hourly aggregates merged where available.
-- Final analysis frame used for clustering: 1316 hourly rows.
+Primary data artifacts:
+- [outputs/features/audio_hourly_features.parquet](outputs/features/audio_hourly_features.parquet)
+- [outputs/features/modulation_hourly_features.parquet](outputs/features/modulation_hourly_features.parquet)
+- [outputs/features/multimodal_hourly_features.parquet](outputs/features/multimodal_hourly_features.parquet)
 
-## Clustering Results (Tuned Run)
-From `outputs/models/cluster_metrics.csv`:
+## Features
+The feature set includes spectral descriptors, MFCC statistics, custom acoustic band summaries, and sensor aggregates.
 
-- `kmeans`: silhouette = 0.3225, Davies-Bouldin = 1.1329
-- `gaussian_mixture`: silhouette = 0.3193, Davies-Bouldin = 1.3609
-- `dbscan` (eps=3.0, min_samples=5):
-  - clusters found = 15
-  - noise points = 927 / 1316 (~70%)
-  - silhouette (non-noise) = 0.2698
-  - Davies-Bouldin (non-noise) = 0.8506
+Key biologically relevant groups:
+- Acoustic texture around the 200-600 Hz target region, represented here by 180-280 Hz and 450-530 Hz band-power summaries.
+- Cluster-transition behavior over time (state switching frequency).
+- Modulation features from the modulation pipeline, included where values were available.
+- Sensor and accelerometer context features for multimodal interpretation.
+
+## Methods
+Unsupervised methods were run on standardized features:
+- KMeans for baseline partitioning.
+- Gaussian Mixture for soft clustering.
+- DBSCAN for anomaly/state discovery.
+
+Model evaluation used silhouette and Davies-Bouldin metrics from [outputs/models/cluster_metrics.csv](outputs/models/cluster_metrics.csv). PCA-based cluster/hive projections were reviewed using:
+- [outputs/figures/pca_by_hive.png](outputs/figures/pca_by_hive.png)
+- [outputs/figures/pca_by_kmeans_cluster.png](outputs/figures/pca_by_kmeans_cluster.png)
+- [outputs/figures/pca_by_gmm_cluster.png](outputs/figures/pca_by_gmm_cluster.png)
+- [outputs/figures/pca_by_dbscan_cluster.png](outputs/figures/pca_by_dbscan_cluster.png)
+
+## Cluster Findings
+Latest metrics:
+- KMeans: silhouette 0.3225, Davies-Bouldin 1.1329.
+- Gaussian Mixture: silhouette 0.3193, Davies-Bouldin 1.3609.
+- DBSCAN: 15 clusters, 927 noise points of 1316 (~70%), silhouette 0.2698, Davies-Bouldin 0.8506.
 
 Interpretation:
-- KMeans/GMM provide stable coarse partitioning.
-- Tuned DBSCAN is useful for anomaly-oriented segmentation, but high noise fraction suggests sparse local density structure in this feature space.
+- KMeans and Gaussian Mixture provide stable coarse state segmentation.
+- DBSCAN isolates denser local regimes and anomalies, but with a high noise fraction that limits direct state labeling.
 
-## Queenless-Window Hypothesis
-Heuristic:
-1. Compute hourly cluster composition per hive.
-2. Measure hour-to-hour change with total variation distance (TVD).
-3. Compute rolling z-score per hive.
-4. Mark candidate windows where z-score >= 2.0.
+Supporting tables:
+- [outputs/models/cluster_assignments.parquet](outputs/models/cluster_assignments.parquet)
+- [outputs/models/cluster_distribution_kmeans.csv](outputs/models/cluster_distribution_kmeans.csv)
+- [outputs/models/cluster_distribution_gmm.csv](outputs/models/cluster_distribution_gmm.csv)
+- [outputs/models/cluster_distribution_dbscan.csv](outputs/models/cluster_distribution_dbscan.csv)
 
-Outputs:
-- Full candidate table: `outputs/models/queenless_window_candidates.csv`
-- Ranked top windows: `outputs/models/queenless_top20.csv`
+## Estimated Queenless Windows for Hive 3 and 4
+Queenless-window inference was generated from a combined evidence score using:
+- matched-hour cluster transition excess versus control hives,
+- 200-600 Hz proxy acoustic deviation,
+- modulation evidence contribution (neutral fallback where modulation values were unavailable in this run).
 
-Top candidate windows by z-score include:
-- `hive_04` at `2026-03-13 02:00:00+00:00` (z=4.6949)
-- `hive_04` at `2026-03-13 03:00:00+00:00` (z=3.2468)
-- `hive_01` at `2026-03-08 15:00:00+00:00` (z=2.6950)
+Ranked candidates and hypothesis artifacts:
+- [outputs/models/queenless_window_ranked.csv](outputs/models/queenless_window_ranked.csv)
+- [outputs/models/queenless_window_candidates.csv](outputs/models/queenless_window_candidates.csv)
+- [outputs/models/queenless_top20.csv](outputs/models/queenless_top20.csv)
+- [outputs/queenless_window_hypothesis.md](outputs/queenless_window_hypothesis.md)
 
-Operational reading:
-- These are high-priority anomaly windows for inspection, not confirmed labels.
-- Candidate windows should be validated against beekeeper logs, weather/context events, or manual review.
+Top-ranked windows currently include repeated high-confidence periods in both target hives, with the highest ranks concentrated in hive_03 and hive_04 morning and transition hours.
 
 ## Limitations
-- No ground-truth labels for queen loss, so findings are hypothesis-generating.
-- DBSCAN sensitivity to `eps` and `min_samples` is high in high-dimensional feature spaces.
-- Sensor data availability is uneven across hives.
+- No ground-truth intervention labels were available, so conclusions are hypothesis-driven.
+- The current modulation table in this run contains missing numerical modulation summaries, reducing modulation evidence strength.
+- DBSCAN behavior is parameter-sensitive and yields high noise in this feature geometry.
+- Sensor coverage is partial across hives and time.
 
-## Recommended Next Actions
-1. Build a weak-label validation set from expert review of top candidate windows.
-2. Add temporal smoothing/hysteresis to reduce isolated one-hour spikes.
-3. Compare multiple anomaly scores (e.g., isolation forest, one-class SVM, HMM state changes) against the TVD-zscore heuristic.
-4. Integrate confidence bands and candidate ranking into the dashboard.
+## Next Steps
+1. Repair and re-run modulation feature extraction so modulation evidence is fully populated, then re-rank queenless windows.
+2. Validate top-ranked candidate windows against beekeeper logs or manual inspection notes.
+3. Add temporal persistence constraints or change-point logic to reduce isolated spikes.
+4. Compare the current ranking with a second unsupervised anomaly model for robustness.

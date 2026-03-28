@@ -1,0 +1,855 @@
+candidate_rank,hive,timestamp_utc,hour_of_day,confidence_score,transition_excess,acoustic_200_600_score,modulation_score,explanatory_notes
+1,hive_03,2026-03-11 07:46:05+00:00,7,0.9237,0.8,6.012,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+2,hive_03,2026-03-16 07:07:10+00:00,7,0.9158,0.8,2.8553,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+3,hive_04,2026-03-16 01:06:58+00:00,1,0.9104,0.8,1.808,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+4,hive_03,2026-03-10 21:14:04+00:00,21,0.909,0.85,2.5598,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+5,hive_03,2026-03-10 22:44:45+00:00,22,0.895,0.85,2.2497,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+6,hive_04,2026-03-11 08:09:19+00:00,8,0.8941,0.7368,2.1553,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+7,hive_04,2026-03-11 07:38:37+00:00,7,0.8908,0.8,6.2041,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+8,hive_03,2026-03-11 08:16:56+00:00,8,0.8862,0.7368,1.7928,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+9,hive_04,2026-03-09 10:21:05+00:00,10,0.8849,0.5556,26.0585,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+10,hive_04,2026-03-10 08:35:50+00:00,8,0.8763,0.7368,3.2224,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+11,hive_03,2026-03-10 10:42:45+00:00,10,0.8719,0.5556,4.2747,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+12,hive_03,2026-03-14 07:31:09+00:00,7,0.8698,0.8,2.8276,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+13,hive_04,2026-03-08 15:01:39+00:00,15,0.8681,0.5556,2.7608,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+14,hive_03,2026-03-10 19:43:24+00:00,19,0.8628,0.9,2.0708,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+15,hive_04,2026-03-10 09:06:11+00:00,9,0.861,0.6111,1.7229,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+16,hive_04,2026-03-11 10:40:35+00:00,10,0.8592,0.5556,2.1995,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+17,hive_04,2026-03-15 07:04:52+00:00,7,0.8585,0.8,1.3077,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+18,hive_03,2026-03-16 08:37:30+00:00,8,0.8571,0.7368,2.2962,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+19,hive_03,2026-03-14 10:32:09+00:00,10,0.8504,0.5556,2.6734,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+20,hive_03,2026-03-11 02:15:04+00:00,2,0.8497,0.7,2.251,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+21,hive_04,2026-03-11 10:09:40+00:00,10,0.8493,0.5556,3.4019,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+22,hive_04,2026-03-15 06:34:31+00:00,6,0.8438,0.55,2.0942,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+23,hive_04,2026-03-16 23:07:40+00:00,23,0.8424,0.7895,1.9957,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+24,hive_04,2026-03-13 10:58:21+00:00,10,0.8414,0.5556,3.3729,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+25,hive_03,2026-03-11 02:45:25+00:00,2,0.84,0.7,1.3885,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+26,hive_03,2026-03-15 08:04:29+00:00,8,0.837,0.7368,1.6844,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+27,hive_03,2026-03-10 17:43:04+00:00,17,0.8332,0.55,2.3353,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+28,hive_04,2026-03-14 23:03:49+00:00,23,0.8324,0.7895,1.9196,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+29,hive_04,2026-03-17 03:08:01+00:00,3,0.8311,0.65,1.9044,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+30,hive_03,2026-03-10 23:15:04+00:00,23,0.8305,0.7895,1.2808,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+31,hive_04,2026-03-15 19:35:54+00:00,19,0.8303,0.9,1.4923,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+32,hive_03,2026-03-08 04:03:33+00:00,4,0.8293,0.7,1.3311,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+33,hive_03,2026-03-14 22:33:49+00:00,22,0.8288,0.85,1.6904,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+34,hive_03,2026-03-09 09:41:25+00:00,9,0.8253,0.6111,1.7237,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+35,hive_03,2026-03-11 09:16:56+00:00,9,0.8247,0.6111,1.4287,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+36,hive_04,2026-03-16 01:37:19+00:00,1,0.8242,0.8,1.091,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+37,hive_04,2026-03-13 12:59:03+00:00,12,0.8199,0.4444,2.7187,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+38,hive_03,2026-03-10 07:12:45+00:00,7,0.8168,0.8,1.5587,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+39,hive_03,2026-03-15 08:34:29+00:00,8,0.8159,0.7368,1.2102,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+40,hive_03,2026-03-08 07:34:13+00:00,7,0.8153,0.8,2.2752,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+41,hive_03,2026-03-15 22:35:49+00:00,22,0.8136,0.85,1.3909,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+42,hive_03,2026-03-11 05:15:25+00:00,5,0.8117,0.5,2.8491,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+43,hive_03,2026-03-16 01:36:30+00:00,1,0.8108,0.8,1.7181,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+44,hive_03,2026-03-10 21:44:45+00:00,21,0.8094,0.85,0.9889,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+45,hive_03,2026-03-08 19:38:05+00:00,19,0.8084,0.9,1.1807,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+46,hive_03,2026-03-15 00:34:09+00:00,0,0.8076,0.8,1.5808,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+47,hive_04,2026-03-16 00:06:37+00:00,0,0.8047,0.8,1.4236,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+48,hive_03,2026-03-14 04:30:29+00:00,4,0.8047,0.7,1.8399,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+49,hive_03,2026-03-10 16:43:04+00:00,16,0.8042,0.5556,1.6092,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+50,hive_03,2026-03-13 08:26:05+00:00,8,0.8042,0.7368,1.7755,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+51,hive_04,2026-03-17 03:38:22+00:00,3,0.8038,0.65,1.2204,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+52,hive_03,2026-03-10 08:12:45+00:00,8,0.803,0.7368,1.0967,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+53,hive_04,2026-03-08 14:31:39+00:00,14,0.8,0.4444,2.2719,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+54,hive_03,2026-03-09 22:42:05+00:00,22,0.7998,0.85,1.2821,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+55,hive_03,2026-03-11 10:47:16+00:00,10,0.7979,0.5556,1.7726,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+56,hive_04,2026-03-16 23:38:01+00:00,23,0.7976,0.7895,1.1343,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+57,hive_03,2026-03-10 10:12:45+00:00,10,0.7957,0.5556,1.6773,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+58,hive_03,2026-03-11 06:46:05+00:00,6,0.7877,0.55,1.6141,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+59,hive_04,2026-03-14 03:01:22+00:00,3,0.7871,0.65,1.5695,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+60,hive_04,2026-03-09 12:33:02+00:00,12,0.7852,0.4444,1.6829,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+61,hive_04,2026-03-13 17:29:45+00:00,17,0.7838,0.55,2.8524,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+62,hive_04,2026-03-14 21:03:28+00:00,21,0.7819,0.85,1.2047,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+63,hive_04,2026-03-14 21:33:49+00:00,21,0.7807,0.85,1.0336,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+64,hive_04,2026-03-15 10:34:52+00:00,10,0.7788,0.5556,1.4395,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+65,hive_04,2026-03-16 00:36:58+00:00,0,0.7764,0.8,1.0463,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+66,hive_03,2026-03-13 19:29:29+00:00,19,0.7763,0.9,1.2214,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+67,hive_03,2026-03-14 20:03:29+00:00,20,0.7752,0.6,1.9496,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+68,hive_04,2026-03-14 10:32:04+00:00,10,0.7746,0.5556,1.2481,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+69,hive_03,2026-03-08 22:39:45+00:00,22,0.7718,0.85,1.1069,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+70,hive_04,2026-03-13 14:29:24+00:00,14,0.7691,0.4444,2.4672,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+71,hive_03,2026-03-16 06:06:50+00:00,6,0.768,0.55,2.0227,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+72,hive_04,2026-03-15 05:34:09+00:00,5,0.7674,0.5,1.7639,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+73,hive_04,2026-03-13 06:57:59+00:00,6,0.7657,0.55,2.022,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+74,hive_04,2026-03-09 04:09:06+00:00,4,0.7653,0.7,1.0592,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+75,hive_04,2026-03-09 11:32:20+00:00,11,0.7633,0.4444,1.3451,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+76,hive_03,2026-03-09 01:10:05+00:00,1,0.7625,0.8,1.3417,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+77,hive_04,2026-03-14 23:34:09+00:00,23,0.7609,0.7895,0.9947,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+78,hive_03,2026-03-14 10:01:49+00:00,10,0.7572,0.5556,1.4815,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+79,hive_03,2026-03-14 00:00:09+00:00,0,0.756,0.8,1.3151,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+80,hive_04,2026-03-14 10:01:43+00:00,10,0.7532,0.5556,1.3269,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+81,hive_03,2026-03-10 20:44:04+00:00,20,0.7497,0.6,0.9966,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+82,hive_03,2026-03-08 03:03:13+00:00,3,0.7468,0.65,1.439,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+83,hive_03,2026-03-15 01:04:30+00:00,1,0.7457,0.8,0.8933,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+84,hive_03,2026-03-14 15:33:09+00:00,15,0.7457,0.5556,1.2646,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+85,hive_04,2026-03-14 11:32:04+00:00,11,0.7433,0.4444,1.5835,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+86,hive_04,2026-03-09 14:03:02+00:00,14,0.7431,0.4444,2.5188,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+87,hive_04,2026-03-16 15:07:40+00:00,15,0.743,0.5556,1.1631,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+88,hive_04,2026-03-15 20:06:15+00:00,20,0.7406,0.6,1.0363,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+89,hive_04,2026-03-13 07:28:21+00:00,7,0.7389,0.8,0.906,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+90,hive_03,2026-03-09 04:40:45+00:00,4,0.7387,0.7,1.1923,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+91,hive_03,2026-03-16 09:07:50+00:00,9,0.7377,0.6111,1.0198,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+92,hive_03,2026-03-16 07:37:30+00:00,7,0.7349,0.8,0.7702,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+93,hive_03,2026-03-08 16:37:05+00:00,16,0.7308,0.5556,1.286,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+94,hive_04,2026-03-15 06:04:31+00:00,6,0.7285,0.55,1.113,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+95,hive_03,2026-03-10 02:42:25+00:00,2,0.7279,0.7,1.1936,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+96,hive_03,2026-03-09 03:10:25+00:00,3,0.7251,0.65,1.2739,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+97,hive_04,2026-03-13 02:27:17+00:00,2,0.7237,0.7,1.1539,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+98,hive_03,2026-03-10 18:13:24+00:00,18,0.7216,0.6,0.9293,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+99,hive_04,2026-03-08 17:30:21+00:00,17,0.7211,0.55,1.1165,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+100,hive_03,2026-03-13 17:59:09+00:00,17,0.7193,0.55,1.3687,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+101,hive_03,2026-03-14 23:04:09+00:00,23,0.718,0.7895,0.8125,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+102,hive_04,2026-03-13 11:58:42+00:00,11,0.7149,0.4444,1.109,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+103,hive_03,2026-03-12 22:55:25+00:00,22,0.7147,0.85,1.0999,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+104,hive_03,2026-03-10 07:42:45+00:00,7,0.7128,0.8,0.8076,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+105,hive_04,2026-03-07 17:33:20+00:00,17,0.7094,0.55,1.0523,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+106,hive_03,2026-03-11 17:21:16+00:00,17,0.709,0.55,1.3058,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+107,hive_04,2026-03-11 08:39:19+00:00,8,0.709,-0.2632,5.0458,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+108,hive_03,2026-03-08 10:05:46+00:00,10,0.7047,0.5556,1.0179,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+109,hive_04,2026-03-13 12:29:03+00:00,12,0.7041,0.4444,1.151,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+110,hive_03,2026-03-16 02:06:50+00:00,2,0.7028,0.7,0.8111,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+111,hive_03,2026-03-09 10:41:45+00:00,10,0.7019,0.5556,1.0153,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+112,hive_03,2026-03-13 21:59:49+00:00,21,0.7018,0.85,1.0001,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+113,hive_03,2026-03-13 12:56:46+00:00,12,0.6996,0.4444,1.2999,0.0,Cluster transitions exceed matched-hour control baseline; Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+114,hive_04,2026-03-13 19:01:22+00:00,19,0.698,0.9,0.7701,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+115,hive_04,2026-03-16 14:37:40+00:00,14,0.697,0.4444,1.1515,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+116,hive_04,2026-03-10 09:36:11+00:00,9,0.6912,-0.3889,3.0888,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+117,hive_03,2026-03-14 05:00:49+00:00,5,0.6785,0.5,0.9583,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+118,hive_03,2026-03-10 11:12:45+00:00,11,0.6771,-0.5556,2.4564,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+119,hive_04,2026-03-14 03:31:43+00:00,3,0.6771,0.65,0.7494,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+120,hive_03,2026-03-10 11:43:04+00:00,11,0.6744,-0.5556,12.1965,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+121,hive_03,2026-03-14 08:31:49+00:00,8,0.6734,0.7368,0.5901,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+122,hive_03,2026-03-10 08:42:45+00:00,8,0.6684,0.7368,0.5888,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+123,hive_03,2026-03-14 16:03:29+00:00,16,0.6679,0.5556,0.7647,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+124,hive_03,2026-03-15 21:05:29+00:00,21,0.6665,0.85,0.9027,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+125,hive_04,2026-03-13 03:27:59+00:00,3,0.6663,0.65,0.7137,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+126,hive_04,2026-03-08 14:01:39+00:00,14,0.6633,0.4444,1.002,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+127,hive_04,2026-03-16 13:37:40+00:00,13,0.6622,0.6111,0.7642,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+128,hive_03,2026-03-14 06:31:09+00:00,6,0.6598,0.55,0.8563,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+129,hive_04,2026-03-13 13:29:24+00:00,13,0.658,0.6111,0.6012,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+130,hive_03,2026-03-11 06:15:45+00:00,6,0.6579,-0.45,3.2526,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+131,hive_04,2026-03-14 17:03:28+00:00,17,0.6579,0.55,0.881,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+132,hive_04,2026-03-11 09:09:40+00:00,9,0.6532,-0.3889,2.2739,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+133,hive_03,2026-03-09 21:11:45+00:00,21,0.6529,0.85,0.8298,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+134,hive_03,2026-03-14 05:30:49+00:00,5,0.6517,0.5,0.7406,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+135,hive_03,2026-03-11 09:46:56+00:00,9,0.6493,-0.3889,3.2379,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+136,hive_03,2026-03-16 10:37:50+00:00,10,0.6487,0.5556,0.9714,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+137,hive_03,2026-03-10 12:43:04+00:00,12,0.6485,-0.5556,4.7656,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+138,hive_03,2026-03-14 11:32:09+00:00,11,0.6482,-0.5556,2.8175,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+139,hive_03,2026-03-11 03:15:25+00:00,3,0.6476,-0.35,1.631,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+140,hive_03,2026-03-10 15:13:04+00:00,15,0.6454,-0.4444,4.2751,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+141,hive_03,2026-03-10 12:13:04+00:00,12,0.6452,-0.5556,4.5133,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+142,hive_04,2026-03-10 12:36:11+00:00,12,0.6443,-0.5556,4.0221,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+143,hive_04,2026-03-15 12:35:33+00:00,12,0.642,0.4444,1.0006,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+144,hive_04,2026-03-10 15:06:11+00:00,15,0.6419,-0.4444,4.0826,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+145,hive_03,2026-03-10 16:13:04+00:00,16,0.6416,-0.4444,3.8766,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+146,hive_04,2026-03-14 15:02:04+00:00,15,0.6402,0.5556,0.8079,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+147,hive_03,2026-03-14 16:33:29+00:00,16,0.6399,0.5556,0.652,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+148,hive_03,2026-03-16 21:38:10+00:00,21,0.6394,0.85,0.7276,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+149,hive_03,2026-03-16 15:08:10+00:00,15,0.6391,0.5556,0.791,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+150,hive_03,2026-03-10 20:13:44+00:00,20,0.6386,-0.4,2.2428,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+151,hive_04,2026-03-11 09:39:40+00:00,9,0.638,-0.3889,3.3565,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+152,hive_04,2026-03-08 16:01:39+00:00,16,0.6379,-0.4444,2.1031,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+153,hive_03,2026-03-11 07:16:05+00:00,7,0.6371,-0.2,2.0811,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+154,hive_04,2026-03-11 11:22:45+00:00,11,0.6371,0.4444,0.8511,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+155,hive_04,2026-03-12 09:55:53+00:00,9,0.6366,-0.3889,3.3849,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+156,hive_04,2026-03-08 16:32:00+00:00,16,0.6363,-0.4444,4.6591,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+157,hive_03,2026-03-15 23:36:30+00:00,23,0.6348,0.7895,0.4451,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+158,hive_03,2026-03-11 05:45:45+00:00,5,0.6346,-0.5,2.0264,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+159,hive_03,2026-03-08 08:34:53+00:00,8,0.6346,-0.2632,1.7554,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+160,hive_03,2026-03-10 03:12:45+00:00,3,0.6341,0.65,0.6368,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+161,hive_04,2026-03-16 13:07:19+00:00,13,0.6337,0.6111,0.7082,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+162,hive_03,2026-03-10 14:43:04+00:00,14,0.6333,-0.5556,3.418,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+163,hive_04,2026-03-09 12:02:41+00:00,12,0.6331,-0.5556,2.4631,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+164,hive_04,2026-03-10 11:36:11+00:00,11,0.6331,-0.5556,4.1938,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+165,hive_04,2026-03-10 12:06:11+00:00,12,0.6329,-0.5556,3.9018,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+166,hive_03,2026-03-08 19:08:05+00:00,19,0.6327,0.9,0.526,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+167,hive_04,2026-03-11 11:40:35+00:00,11,0.6323,0.4444,0.9043,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+168,hive_03,2026-03-16 06:37:10+00:00,6,0.6301,0.55,0.7379,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+169,hive_04,2026-03-08 15:31:39+00:00,15,0.6289,-0.4444,1.4774,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+170,hive_04,2026-03-10 10:36:11+00:00,10,0.6288,-0.4444,2.8974,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+171,hive_04,2026-03-10 16:06:11+00:00,16,0.6285,-0.4444,2.5013,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+172,hive_03,2026-03-10 15:43:04+00:00,15,0.6285,-0.4444,2.3497,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution); High combined confidence after persistence smoothing
+173,hive_03,2026-03-14 06:00:49+00:00,6,0.6281,-0.45,2.3061,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+174,hive_03,2026-03-16 15:38:10+00:00,15,0.628,0.5556,0.744,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+175,hive_04,2026-03-15 11:05:13+00:00,11,0.6262,0.4444,0.766,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+176,hive_04,2026-03-12 16:56:35+00:00,16,0.626,-0.4444,4.7628,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution)
+177,hive_04,2026-03-11 05:37:55+00:00,5,0.6257,-0.5,3.4688,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution)
+178,hive_04,2026-03-07 17:03:20+00:00,17,0.6252,-0.45,2.3589,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution)
+179,hive_04,2026-03-10 14:36:11+00:00,14,0.625,-0.5556,2.7395,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+180,hive_03,2026-03-10 14:13:04+00:00,14,0.6249,-0.5556,3.5477,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+181,hive_04,2026-03-10 15:36:11+00:00,15,0.6249,-0.4444,2.2992,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+182,hive_03,2026-03-11 08:46:56+00:00,8,0.6245,-0.2632,1.2927,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+183,hive_03,2026-03-14 01:00:29+00:00,1,0.6242,0.8,0.4819,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+184,hive_03,2026-03-11 03:45:25+00:00,3,0.624,-0.35,1.7496,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+185,hive_03,2026-03-13 22:30:09+00:00,22,0.6238,0.85,0.4648,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+186,hive_04,2026-03-12 16:26:35+00:00,16,0.6235,-0.4444,6.6925,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+187,hive_03,2026-03-15 09:04:29+00:00,9,0.6226,-0.3889,1.3961,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+188,hive_03,2026-03-14 08:01:29+00:00,8,0.6222,-0.2632,2.0752,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution)
+189,hive_04,2026-03-10 14:06:11+00:00,14,0.6219,-0.5556,2.6936,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+190,hive_04,2026-03-12 09:25:53+00:00,9,0.6212,-0.3889,2.3052,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+191,hive_04,2026-03-12 08:55:53+00:00,8,0.6209,-0.2632,2.3414,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+192,hive_03,2026-03-13 10:56:46+00:00,10,0.6209,-0.4444,3.33,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+193,hive_04,2026-03-10 13:06:11+00:00,13,0.6184,-0.3889,2.0727,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+194,hive_03,2026-03-14 20:33:49+00:00,20,0.6154,0.6,0.599,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+195,hive_03,2026-03-08 09:35:46+00:00,9,0.6142,0.6111,0.5862,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+196,hive_04,2026-03-15 07:34:52+00:00,7,0.6135,-0.2,1.3182,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+197,hive_03,2026-03-08 14:06:06+00:00,14,0.6134,0.4444,0.8746,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+198,hive_04,2026-03-17 04:08:22+00:00,4,0.6133,-0.3,1.3244,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+199,hive_03,2026-03-09 12:11:45+00:00,12,0.6128,0.4444,0.9805,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+200,hive_04,2026-03-10 08:05:50+00:00,8,0.6113,-0.2632,2.1659,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+201,hive_03,2026-03-08 23:10:05+00:00,23,0.6109,0.7895,0.3938,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+202,hive_03,2026-03-13 16:28:49+00:00,16,0.6107,-0.4444,1.9461,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+203,hive_04,2026-03-10 03:34:47+00:00,3,0.6104,-0.35,3.5293,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+204,hive_04,2026-03-09 11:02:20+00:00,11,0.61,0.4444,0.5877,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+205,hive_03,2026-03-09 21:42:05+00:00,21,0.6095,0.85,0.4573,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+206,hive_03,2026-03-09 09:11:25+00:00,9,0.6095,0.6111,0.5965,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+207,hive_03,2026-03-08 08:04:33+00:00,8,0.6093,-0.2632,1.8723,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+208,hive_04,2026-03-08 13:31:18+00:00,13,0.6084,0.6111,0.6677,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+209,hive_03,2026-03-13 15:27:26+00:00,15,0.6081,-0.4444,2.6753,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+210,hive_04,2026-03-10 10:06:11+00:00,10,0.608,-0.4444,1.4807,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+211,hive_04,2026-03-12 10:55:53+00:00,10,0.6042,-0.4444,1.8553,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+212,hive_04,2026-03-14 06:01:43+00:00,6,0.6036,0.55,0.7392,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+213,hive_03,2026-03-13 19:59:49+00:00,19,0.6034,0.9,0.3956,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+214,hive_04,2026-03-12 08:25:53+00:00,8,0.6032,-0.2632,2.0483,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+215,hive_04,2026-03-16 09:37:19+00:00,9,0.6028,-0.3889,1.8729,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+216,hive_03,2026-03-15 23:06:10+00:00,23,0.6009,-0.2105,1.7445,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution)
+217,hive_04,2026-03-16 09:07:19+00:00,9,0.5993,-0.3889,1.8568,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+218,hive_04,2026-03-15 13:35:33+00:00,13,0.5985,0.6111,0.5824,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+219,hive_03,2026-03-08 20:08:25+00:00,20,0.5975,-0.4,1.3443,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+220,hive_04,2026-03-10 16:36:11+00:00,16,0.5973,-0.4444,1.6636,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+221,hive_03,2026-03-08 05:04:13+00:00,5,0.5972,0.5,0.5975,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+222,hive_04,2026-03-13 09:58:21+00:00,9,0.5972,-0.3889,2.1788,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+223,hive_03,2026-03-15 21:35:49+00:00,21,0.5969,0.85,0.4309,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+224,hive_03,2026-03-11 04:45:25+00:00,4,0.5963,-0.3,1.7294,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+225,hive_03,2026-03-13 15:57:46+00:00,15,0.5962,-0.4444,2.1145,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+226,hive_03,2026-03-08 03:33:33+00:00,3,0.5958,0.65,0.4872,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+227,hive_03,2026-03-14 11:02:09+00:00,11,0.5956,0.4444,0.5088,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+228,hive_04,2026-03-10 20:36:31+00:00,20,0.5951,-0.4,3.0934,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+229,hive_04,2026-03-12 07:55:53+00:00,7,0.5946,-0.2,1.8625,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+230,hive_04,2026-03-13 11:28:42+00:00,11,0.5944,0.4444,0.6196,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+231,hive_03,2026-03-11 04:15:25+00:00,4,0.5939,-0.3,1.7179,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+232,hive_04,2026-03-16 02:07:19+00:00,2,0.5929,-0.3,1.1935,0.0,Modulation features unavailable for this window (neutral contribution)
+233,hive_03,2026-03-15 09:34:29+00:00,9,0.5929,-0.3889,1.4443,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+234,hive_03,2026-03-09 01:40:25+00:00,1,0.5928,0.8,0.3967,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+235,hive_03,2026-03-16 14:08:10+00:00,14,0.5912,0.4444,0.8811,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+236,hive_04,2026-03-10 05:35:29+00:00,5,0.5911,-0.5,1.8798,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+237,hive_04,2026-03-15 09:34:52+00:00,9,0.5911,-0.3889,1.6951,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+238,hive_04,2026-03-15 08:04:52+00:00,8,0.5903,-0.2632,1.388,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+239,hive_03,2026-03-09 23:12:25+00:00,23,0.5901,0.7895,0.4061,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+240,hive_04,2026-03-15 09:04:52+00:00,9,0.59,-0.3889,1.7338,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+241,hive_04,2026-03-16 10:07:19+00:00,10,0.5899,-0.4444,1.6268,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+242,hive_03,2026-03-14 15:03:09+00:00,15,0.5894,0.5556,0.6636,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+243,hive_03,2026-03-08 20:38:45+00:00,20,0.5887,-0.4,1.3732,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+244,hive_04,2026-03-15 15:05:54+00:00,15,0.5884,0.5556,0.7051,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+245,hive_04,2026-03-16 10:37:19+00:00,10,0.5878,-0.4444,1.6235,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+246,hive_03,2026-03-15 07:34:29+00:00,7,0.5877,-0.2,1.6661,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+247,hive_04,2026-03-12 10:25:53+00:00,10,0.5876,-0.4444,1.549,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+248,hive_03,2026-03-10 09:42:45+00:00,9,0.5873,-0.3889,1.6379,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+249,hive_04,2026-03-17 08:08:22+00:00,8,0.587,-0.2632,1.6455,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+250,hive_04,2026-03-10 17:06:11+00:00,17,0.5853,-0.45,1.5798,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+251,hive_04,2026-03-10 04:05:29+00:00,4,0.5849,-0.3,1.7431,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+252,hive_03,2026-03-08 22:09:45+00:00,22,0.5844,0.85,0.4362,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+253,hive_03,2026-03-08 09:05:13+00:00,9,0.5844,-0.3889,1.5804,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+254,hive_04,2026-03-09 16:03:22+00:00,16,0.5837,-0.4444,2.3085,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+255,hive_04,2026-03-16 08:07:19+00:00,8,0.5828,-0.2632,1.6194,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+256,hive_03,2026-03-10 23:45:04+00:00,23,0.582,-0.2105,1.1284,0.0,Modulation features unavailable for this window (neutral contribution)
+257,hive_03,2026-03-10 17:13:04+00:00,17,0.5813,-0.45,1.2764,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+258,hive_03,2026-03-12 16:55:06+00:00,16,0.5812,-0.4444,1.535,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_mean); Modulation features unavailable for this window (neutral contribution)
+259,hive_04,2026-03-15 12:05:13+00:00,12,0.581,0.4444,0.7541,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+260,hive_03,2026-03-08 04:33:53+00:00,4,0.5808,-0.3,1.2893,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+261,hive_04,2026-03-17 04:38:22+00:00,4,0.5803,-0.3,1.3354,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+262,hive_04,2026-03-10 07:35:50+00:00,7,0.5795,-0.2,1.6464,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+263,hive_04,2026-03-10 13:36:11+00:00,13,0.5794,-0.3889,1.4537,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+264,hive_04,2026-03-13 07:58:21+00:00,7,0.5792,-0.2,1.1892,0.0,Modulation features unavailable for this window (neutral contribution)
+265,hive_04,2026-03-16 08:37:19+00:00,8,0.5789,-0.2632,1.5732,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+266,hive_04,2026-03-13 10:28:21+00:00,10,0.5776,-0.4444,1.5002,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+267,hive_03,2026-03-10 22:14:45+00:00,22,0.5764,-0.15,1.1207,0.0,Modulation features unavailable for this window (neutral contribution)
+268,hive_03,2026-03-14 17:03:29+00:00,17,0.5762,0.55,0.5207,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+269,hive_04,2026-03-17 07:38:22+00:00,7,0.5755,-0.2,1.5684,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+270,hive_04,2026-03-17 07:08:22+00:00,7,0.5753,-0.2,1.5834,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+271,hive_04,2026-03-10 07:05:50+00:00,7,0.5749,-0.2,1.7392,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+272,hive_03,2026-03-13 10:26:26+00:00,10,0.5744,-0.4444,2.1951,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+273,hive_03,2026-03-15 07:04:29+00:00,7,0.574,-0.2,1.5458,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+274,hive_03,2026-03-12 15:55:06+00:00,15,0.5728,0.5556,0.7,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+275,hive_03,2026-03-13 14:27:26+00:00,14,0.5706,-0.5556,2.7148,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+276,hive_03,2026-03-12 09:24:06+00:00,9,0.5704,0.6111,0.6977,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+277,hive_03,2026-03-15 06:34:30+00:00,6,0.5701,-0.45,1.5133,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+278,hive_04,2026-03-15 10:04:52+00:00,10,0.5699,-0.4444,1.4287,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+279,hive_04,2026-03-17 00:08:01+00:00,0,0.5697,-0.2,1.105,0.0,Modulation features unavailable for this window (neutral contribution)
+280,hive_03,2026-03-11 01:45:04+00:00,1,0.5693,-0.2,1.6189,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+281,hive_03,2026-03-10 13:43:04+00:00,13,0.569,-0.3889,1.4099,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+282,hive_04,2026-03-16 07:37:19+00:00,7,0.569,-0.2,1.5094,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+283,hive_03,2026-03-10 06:12:45+00:00,6,0.5681,0.55,0.6462,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+284,hive_04,2026-03-11 07:08:37+00:00,7,0.5673,-0.2,1.5873,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+285,hive_04,2026-03-16 07:07:19+00:00,7,0.5663,-0.2,1.5165,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+286,hive_03,2026-03-10 13:13:04+00:00,13,0.5661,-0.3889,1.2945,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+287,hive_03,2026-03-10 09:12:45+00:00,9,0.5659,0.6111,0.3299,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+288,hive_04,2026-03-14 16:02:46+00:00,16,0.5651,-0.4444,1.467,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+289,hive_03,2026-03-16 22:08:31+00:00,22,0.5643,0.85,0.3209,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+290,hive_03,2026-03-13 12:26:46+00:00,12,0.5638,0.4444,0.8203,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+291,hive_04,2026-03-15 08:34:52+00:00,8,0.5636,-0.2632,1.4404,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+292,hive_03,2026-03-12 09:54:06+00:00,9,0.563,-0.3889,1.6569,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+293,hive_04,2026-03-11 04:37:34+00:00,4,0.5613,-0.3,1.6382,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+294,hive_04,2026-03-13 18:30:48+00:00,18,0.561,-0.4,1.2125,0.0,Modulation features unavailable for this window (neutral contribution)
+295,hive_04,2026-03-14 05:31:43+00:00,5,0.5603,0.5,0.6674,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+296,hive_04,2026-03-14 16:33:07+00:00,16,0.5601,-0.4444,1.5379,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+297,hive_04,2026-03-09 20:33:43+00:00,20,0.56,-0.4,1.6362,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+298,hive_04,2026-03-10 04:35:29+00:00,4,0.5597,-0.3,1.2894,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+299,hive_03,2026-03-12 16:25:06+00:00,16,0.5593,0.5556,0.5226,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+300,hive_03,2026-03-12 17:25:06+00:00,17,0.5588,-0.45,1.34,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+301,hive_03,2026-03-15 11:04:29+00:00,11,0.5588,0.4444,0.6881,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+302,hive_04,2026-03-14 12:02:04+00:00,12,0.5586,0.4444,0.6392,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+303,hive_04,2026-03-14 14:02:04+00:00,14,0.5584,0.4444,0.7642,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+304,hive_04,2026-03-16 15:37:40+00:00,15,0.5583,-0.4444,1.1658,0.0,Modulation features unavailable for this window (neutral contribution)
+305,hive_04,2026-03-17 05:08:22+00:00,5,0.5575,-0.5,1.3828,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+306,hive_04,2026-03-09 14:33:22+00:00,14,0.5571,0.4444,0.5392,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+307,hive_03,2026-03-15 13:04:49+00:00,13,0.5568,0.6111,0.4996,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+308,hive_03,2026-03-16 11:38:10+00:00,11,0.5565,0.4444,0.6321,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+309,hive_04,2026-03-13 09:28:21+00:00,9,0.5559,-0.3889,1.6129,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+310,hive_04,2026-03-12 15:26:14+00:00,15,0.5543,-0.4444,1.8576,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+311,hive_03,2026-03-15 06:04:30+00:00,6,0.554,-0.45,1.351,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+312,hive_03,2026-03-15 05:34:30+00:00,5,0.5537,-0.5,1.3865,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+313,hive_04,2026-03-17 06:08:22+00:00,6,0.5532,-0.45,1.3333,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+314,hive_04,2026-03-12 17:56:35+00:00,17,0.5524,-0.45,1.4408,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+315,hive_04,2026-03-17 06:38:22+00:00,6,0.5518,-0.45,1.3274,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+316,hive_04,2026-03-17 05:38:22+00:00,5,0.5503,-0.5,1.3133,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+317,hive_03,2026-03-08 13:36:06+00:00,13,0.5484,0.6111,0.5626,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+318,hive_03,2026-03-15 10:34:29+00:00,10,0.5483,-0.4444,1.4626,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+319,hive_04,2026-03-10 19:06:10+00:00,19,0.548,-0.1,1.4345,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+320,hive_04,2026-03-10 11:06:11+00:00,11,0.5478,-0.5556,1.256,0.0,Modulation features unavailable for this window (neutral contribution)
+321,hive_04,2026-03-11 00:07:13+00:00,0,0.5475,-0.2,1.6017,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+322,hive_04,2026-03-14 22:03:49+00:00,22,0.5465,-0.15,1.0433,0.0,Modulation features unavailable for this window (neutral contribution)
+323,hive_04,2026-03-13 14:59:45+00:00,14,0.5465,0.4444,0.5378,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+324,hive_04,2026-03-16 14:07:40+00:00,14,0.5459,-0.5556,1.1766,0.0,Modulation features unavailable for this window (neutral contribution)
+325,hive_04,2026-03-08 13:01:18+00:00,13,0.5454,0.6111,0.3673,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+326,hive_04,2026-03-16 02:37:19+00:00,2,0.5446,-0.3,1.1742,0.0,Modulation features unavailable for this window (neutral contribution)
+327,hive_04,2026-03-17 02:38:01+00:00,2,0.5446,-0.3,1.3055,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+328,hive_03,2026-03-09 16:11:45+00:00,16,0.5427,0.5556,0.503,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+329,hive_03,2026-03-15 15:05:29+00:00,15,0.5427,0.5556,0.4073,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+330,hive_04,2026-03-12 06:55:53+00:00,6,0.5425,-0.45,1.476,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+331,hive_03,2026-03-10 18:43:24+00:00,18,0.542,-0.4,1.0493,0.0,Modulation features unavailable for this window (neutral contribution)
+332,hive_03,2026-03-16 18:08:10+00:00,18,0.5417,0.6,0.5722,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+333,hive_04,2026-03-17 02:08:01+00:00,2,0.5413,-0.3,1.3043,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+334,hive_04,2026-03-11 15:52:33+00:00,15,0.5409,-0.4444,1.3427,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+335,hive_03,2026-03-13 18:29:29+00:00,18,0.5406,0.6,0.3264,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+336,hive_04,2026-03-16 05:07:19+00:00,5,0.54,-0.5,1.282,0.0,Strong 200-600 Hz proxy deviation (driver: band_mid_180_280_power_p50); Modulation features unavailable for this window (neutral contribution)
+337,hive_04,2026-03-13 18:00:27+00:00,18,0.5399,-0.4,1.1912,0.0,Modulation features unavailable for this window (neutral contribution)
+338,hive_04,2026-03-12 07:25:53+00:00,7,0.5392,-0.2,1.2723,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+339,hive_04,2026-03-16 16:07:40+00:00,16,0.5389,-0.4444,1.1682,0.0,Modulation features unavailable for this window (neutral contribution)
+340,hive_03,2026-03-15 14:35:29+00:00,14,0.5386,0.4444,0.6426,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+341,hive_04,2026-03-16 05:37:19+00:00,5,0.5386,-0.5,1.2704,0.0,Modulation features unavailable for this window (neutral contribution)
+342,hive_04,2026-03-16 06:07:19+00:00,6,0.5383,-0.45,1.2656,0.0,Modulation features unavailable for this window (neutral contribution)
+343,hive_03,2026-03-09 03:40:45+00:00,3,0.5374,0.65,0.3146,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+344,hive_03,2026-03-09 15:11:45+00:00,15,0.5373,0.5556,0.42,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+345,hive_04,2026-03-14 09:31:43+00:00,9,0.5367,-0.3889,1.3552,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+346,hive_04,2026-03-16 06:37:19+00:00,6,0.5366,-0.45,1.2599,0.0,Modulation features unavailable for this window (neutral contribution)
+347,hive_03,2026-03-09 13:11:45+00:00,13,0.5363,0.6111,0.399,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+348,hive_04,2026-03-15 20:36:15+00:00,20,0.536,-0.4,0.9939,0.0,Modulation features unavailable for this window (neutral contribution)
+349,hive_04,2026-03-10 02:34:47+00:00,2,0.5357,-0.3,1.283,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+350,hive_03,2026-03-15 14:05:29+00:00,14,0.5354,0.4444,0.6075,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+351,hive_04,2026-03-15 00:04:09+00:00,0,0.5351,-0.2,0.9804,0.0,Modulation features unavailable for this window (neutral contribution)
+352,hive_04,2026-03-11 12:10:35+00:00,12,0.5346,-0.5556,1.2415,0.0,Modulation features unavailable for this window (neutral contribution)
+353,hive_04,2026-03-11 06:38:37+00:00,6,0.5345,-0.45,1.2146,0.0,Modulation features unavailable for this window (neutral contribution)
+354,hive_03,2026-03-15 02:04:30+00:00,2,0.5344,-0.3,1.1781,0.0,Modulation features unavailable for this window (neutral contribution)
+355,hive_03,2026-03-11 01:15:04+00:00,1,0.5338,-0.2,1.3174,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+356,hive_04,2026-03-11 15:22:12+00:00,15,0.5331,-0.4444,1.5443,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_p50); Modulation features unavailable for this window (neutral contribution)
+357,hive_03,2026-03-09 08:41:05+00:00,8,0.532,-0.2632,1.5188,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+358,hive_04,2026-03-09 21:04:04+00:00,21,0.532,-0.15,1.2242,0.0,Modulation features unavailable for this window (neutral contribution)
+359,hive_04,2026-03-11 05:07:55+00:00,5,0.5319,-0.5,1.2592,0.0,Modulation features unavailable for this window (neutral contribution)
+360,hive_03,2026-03-15 01:34:30+00:00,1,0.5309,-0.2,0.9755,0.0,Modulation features unavailable for this window (neutral contribution)
+361,hive_04,2026-03-09 22:04:26+00:00,22,0.53,-0.15,1.2628,0.0,Modulation features unavailable for this window (neutral contribution)
+362,hive_03,2026-03-15 04:34:30+00:00,4,0.5299,-0.3,1.2591,0.0,Modulation features unavailable for this window (neutral contribution)
+363,hive_03,2026-03-12 23:25:46+00:00,23,0.5293,0.7895,0.2571,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+364,hive_04,2026-03-16 04:37:19+00:00,4,0.5293,-0.3,1.2524,0.0,Modulation features unavailable for this window (neutral contribution)
+365,hive_03,2026-03-15 05:04:30+00:00,5,0.5284,-0.5,1.2162,0.0,Modulation features unavailable for this window (neutral contribution)
+366,hive_03,2026-03-13 06:25:45+00:00,6,0.5282,-0.45,1.4697,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+367,hive_04,2026-03-17 00:38:01+00:00,0,0.5276,-0.2,1.1086,0.0,Modulation features unavailable for this window (neutral contribution)
+368,hive_04,2026-03-10 05:05:29+00:00,5,0.5276,-0.5,1.1791,0.0,Modulation features unavailable for this window (neutral contribution)
+369,hive_04,2026-03-10 02:04:47+00:00,2,0.5269,-0.3,1.259,0.0,Modulation features unavailable for this window (neutral contribution)
+370,hive_03,2026-03-15 04:04:30+00:00,4,0.525,-0.3,1.2415,0.0,Modulation features unavailable for this window (neutral contribution)
+371,hive_03,2026-03-12 12:24:46+00:00,12,0.5248,0.4444,0.6391,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+372,hive_04,2026-03-16 12:37:19+00:00,12,0.5238,-0.5556,1.2435,0.0,Modulation features unavailable for this window (neutral contribution)
+373,hive_03,2026-03-14 09:31:49+00:00,9,0.5234,-0.3889,1.2164,0.0,Modulation features unavailable for this window (neutral contribution)
+374,hive_04,2026-03-16 04:07:19+00:00,4,0.5233,-0.3,1.2385,0.0,Modulation features unavailable for this window (neutral contribution)
+375,hive_04,2026-03-16 16:37:40+00:00,16,0.5204,-0.4444,1.1919,0.0,Modulation features unavailable for this window (neutral contribution)
+376,hive_04,2026-03-16 22:07:40+00:00,22,0.5194,-0.15,1.1853,0.0,Modulation features unavailable for this window (neutral contribution)
+377,hive_03,2026-03-09 05:41:05+00:00,5,0.5189,0.5,0.358,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+378,hive_04,2026-03-17 01:38:01+00:00,1,0.5182,-0.2,1.1864,0.0,Modulation features unavailable for this window (neutral contribution)
+379,hive_04,2026-03-16 22:37:40+00:00,22,0.5166,-0.15,1.1782,0.0,Modulation features unavailable for this window (neutral contribution)
+380,hive_04,2026-03-16 21:37:40+00:00,21,0.516,-0.15,1.1795,0.0,Modulation features unavailable for this window (neutral contribution)
+381,hive_04,2026-03-10 21:37:13+00:00,21,0.5155,-0.15,1.1502,0.0,Modulation features unavailable for this window (neutral contribution)
+382,hive_04,2026-03-16 21:07:40+00:00,21,0.5152,-0.15,1.1798,0.0,Modulation features unavailable for this window (neutral contribution)
+383,hive_04,2026-03-15 05:04:09+00:00,5,0.5148,-0.5,1.1859,0.0,Modulation features unavailable for this window (neutral contribution)
+384,hive_03,2026-03-11 00:15:04+00:00,0,0.5141,-0.2,1.034,0.0,Modulation features unavailable for this window (neutral contribution)
+385,hive_04,2026-03-17 01:08:01+00:00,1,0.5141,-0.2,1.1811,0.0,Modulation features unavailable for this window (neutral contribution)
+386,hive_03,2026-03-12 17:55:26+00:00,17,0.5139,0.55,0.3644,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+387,hive_04,2026-03-16 12:07:19+00:00,12,0.5135,-0.5556,1.2367,0.0,Modulation features unavailable for this window (neutral contribution)
+388,hive_03,2026-03-07 17:33:14+00:00,17,0.5126,0.55,0.4347,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+389,hive_04,2026-03-13 02:57:38+00:00,2,0.5116,-0.3,1.0941,0.0,Modulation features unavailable for this window (neutral contribution)
+390,hive_03,2026-03-14 12:32:29+00:00,12,0.5116,-0.5556,1.2064,0.0,Modulation features unavailable for this window (neutral contribution)
+391,hive_04,2026-03-09 16:33:43+00:00,16,0.5115,-0.4444,1.1521,0.0,Modulation features unavailable for this window (neutral contribution)
+392,hive_04,2026-03-16 19:37:40+00:00,19,0.5115,-0.1,1.1678,0.0,Modulation features unavailable for this window (neutral contribution)
+393,hive_03,2026-03-15 12:04:49+00:00,12,0.5113,0.4444,0.534,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+394,hive_04,2026-03-12 02:25:31+00:00,2,0.5113,-0.3,1.2784,0.0,Strong 200-600 Hz proxy deviation (driver: band_high_450_530_power_mean); Modulation features unavailable for this window (neutral contribution)
+395,hive_04,2026-03-15 16:05:54+00:00,16,0.5108,-0.4444,1.1231,0.0,Modulation features unavailable for this window (neutral contribution)
+396,hive_03,2026-03-08 16:07:05+00:00,16,0.5106,0.5556,0.4389,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+397,hive_03,2026-03-09 14:41:45+00:00,14,0.5104,0.4444,0.5904,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+398,hive_03,2026-03-15 03:04:30+00:00,3,0.5103,-0.35,1.1677,0.0,Modulation features unavailable for this window (neutral contribution)
+399,hive_04,2026-03-15 21:06:15+00:00,21,0.5101,-0.15,1.0842,0.0,Modulation features unavailable for this window (neutral contribution)
+400,hive_04,2026-03-16 19:07:40+00:00,19,0.5099,-0.1,1.1671,0.0,Modulation features unavailable for this window (neutral contribution)
+401,hive_03,2026-03-10 05:42:45+00:00,5,0.5098,0.5,0.494,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+402,hive_04,2026-03-10 00:34:25+00:00,0,0.5097,-0.2,1.2688,0.0,Modulation features unavailable for this window (neutral contribution)
+403,hive_04,2026-03-11 06:08:37+00:00,6,0.5096,-0.45,1.0934,0.0,Modulation features unavailable for this window (neutral contribution)
+404,hive_03,2026-03-11 11:17:16+00:00,11,0.5091,0.4444,0.3731,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+405,hive_03,2026-03-10 19:13:24+00:00,19,0.5089,-0.1,1.084,0.0,Modulation features unavailable for this window (neutral contribution)
+406,hive_03,2026-03-12 13:24:46+00:00,13,0.5087,0.6111,0.322,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+407,hive_04,2026-03-14 22:33:49+00:00,22,0.5085,-0.15,1.0447,0.0,Modulation features unavailable for this window (neutral contribution)
+408,hive_04,2026-03-12 18:56:56+00:00,18,0.5074,-0.4,1.1765,0.0,Modulation features unavailable for this window (neutral contribution)
+409,hive_04,2026-03-16 20:07:40+00:00,20,0.5065,-0.4,1.1487,0.0,Modulation features unavailable for this window (neutral contribution)
+410,hive_04,2026-03-10 01:04:47+00:00,1,0.5057,-0.2,1.1755,0.0,Modulation features unavailable for this window (neutral contribution)
+411,hive_04,2026-03-16 20:37:40+00:00,20,0.5054,-0.4,1.1478,0.0,Modulation features unavailable for this window (neutral contribution)
+412,hive_03,2026-03-16 09:37:50+00:00,9,0.5053,-0.3889,0.843,0.0,Modulation features unavailable for this window (neutral contribution)
+413,hive_03,2026-03-14 21:03:49+00:00,21,0.5051,-0.15,0.917,0.0,Modulation features unavailable for this window (neutral contribution)
+414,hive_03,2026-03-14 13:02:49+00:00,13,0.5046,-0.3889,1.2329,0.0,Modulation features unavailable for this window (neutral contribution)
+415,hive_03,2026-03-16 08:07:30+00:00,8,0.5034,-0.2632,0.8351,0.0,Modulation features unavailable for this window (neutral contribution)
+416,hive_03,2026-03-11 17:51:36+00:00,17,0.5032,0.55,0.3491,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+417,hive_04,2026-03-16 18:37:40+00:00,18,0.5031,-0.4,1.1351,0.0,Modulation features unavailable for this window (neutral contribution)
+418,hive_04,2026-03-10 18:36:10+00:00,18,0.503,-0.4,1.1835,0.0,Modulation features unavailable for this window (neutral contribution)
+419,hive_04,2026-03-16 18:07:40+00:00,18,0.5021,-0.4,1.1408,0.0,Modulation features unavailable for this window (neutral contribution)
+420,hive_04,2026-03-10 06:05:50+00:00,6,0.502,-0.45,1.0852,0.0,Modulation features unavailable for this window (neutral contribution)
+421,hive_04,2026-03-14 13:02:04+00:00,13,0.5018,0.6111,0.2847,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+422,hive_04,2026-03-16 17:37:40+00:00,17,0.5003,-0.45,1.1164,0.0,Modulation features unavailable for this window (neutral contribution)
+423,hive_04,2026-03-15 02:34:09+00:00,2,0.4997,-0.3,1.1348,0.0,Modulation features unavailable for this window (neutral contribution)
+424,hive_04,2026-03-11 16:22:54+00:00,16,0.4986,-0.4444,1.0608,0.0,Modulation features unavailable for this window (neutral contribution)
+425,hive_04,2026-03-15 16:35:54+00:00,16,0.4985,-0.4444,1.1318,0.0,Modulation features unavailable for this window (neutral contribution)
+426,hive_04,2026-03-16 03:07:19+00:00,3,0.4977,-0.35,1.0988,0.0,Modulation features unavailable for this window (neutral contribution)
+427,hive_04,2026-03-12 04:25:53+00:00,4,0.4962,-0.3,1.1603,0.0,Modulation features unavailable for this window (neutral contribution)
+428,hive_04,2026-03-16 17:07:40+00:00,17,0.4958,-0.45,1.0939,0.0,Modulation features unavailable for this window (neutral contribution)
+429,hive_04,2026-03-10 06:35:50+00:00,6,0.4957,-0.45,1.0719,0.0,Modulation features unavailable for this window (neutral contribution)
+430,hive_04,2026-03-16 03:37:19+00:00,3,0.4954,-0.35,1.1012,0.0,Modulation features unavailable for this window (neutral contribution)
+431,hive_04,2026-03-15 02:04:09+00:00,2,0.4939,-0.3,1.1144,0.0,Modulation features unavailable for this window (neutral contribution)
+432,hive_04,2026-03-09 21:34:26+00:00,21,0.4934,-0.15,1.0466,0.0,Modulation features unavailable for this window (neutral contribution)
+433,hive_04,2026-03-15 04:34:09+00:00,4,0.4931,-0.3,1.1093,0.0,Modulation features unavailable for this window (neutral contribution)
+434,hive_04,2026-03-09 22:34:26+00:00,22,0.4916,-0.15,1.0878,0.0,Modulation features unavailable for this window (neutral contribution)
+435,hive_04,2026-03-14 04:01:43+00:00,4,0.4913,-0.3,0.8359,0.0,Modulation features unavailable for this window (neutral contribution)
+436,hive_03,2026-03-11 10:17:16+00:00,10,0.4912,-0.4444,0.8616,0.0,Modulation features unavailable for this window (neutral contribution)
+437,hive_04,2026-03-15 00:34:09+00:00,0,0.4907,-0.2,0.9829,0.0,Modulation features unavailable for this window (neutral contribution)
+438,hive_03,2026-03-15 02:34:30+00:00,2,0.4906,-0.3,1.097,0.0,Modulation features unavailable for this window (neutral contribution)
+439,hive_03,2026-03-09 18:11:45+00:00,18,0.4904,0.6,0.2719,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+440,hive_04,2026-03-13 19:31:22+00:00,19,0.4899,-0.1,0.9691,0.0,Modulation features unavailable for this window (neutral contribution)
+441,hive_03,2026-03-15 03:34:30+00:00,3,0.4897,-0.35,1.0849,0.0,Modulation features unavailable for this window (neutral contribution)
+442,hive_04,2026-03-12 02:55:53+00:00,2,0.4882,-0.3,1.1032,0.0,Modulation features unavailable for this window (neutral contribution)
+443,hive_04,2026-03-10 01:34:47+00:00,1,0.4874,-0.2,1.0481,0.0,Modulation features unavailable for this window (neutral contribution)
+444,hive_03,2026-03-09 06:11:05+00:00,6,0.487,0.55,0.3369,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+445,hive_04,2026-03-14 17:33:28+00:00,17,0.4865,-0.45,0.9569,0.0,Modulation features unavailable for this window (neutral contribution)
+446,hive_04,2026-03-12 06:25:53+00:00,6,0.4861,-0.45,1.1521,0.0,Modulation features unavailable for this window (neutral contribution)
+447,hive_04,2026-03-15 04:04:09+00:00,4,0.4859,-0.3,1.0897,0.0,Modulation features unavailable for this window (neutral contribution)
+448,hive_04,2026-03-11 02:37:34+00:00,2,0.4858,-0.3,1.1602,0.0,Modulation features unavailable for this window (neutral contribution)
+449,hive_04,2026-03-15 21:36:15+00:00,21,0.4853,-0.15,1.0894,0.0,Modulation features unavailable for this window (neutral contribution)
+450,hive_04,2026-03-15 22:36:37+00:00,22,0.4852,-0.15,1.0814,0.0,Modulation features unavailable for this window (neutral contribution)
+451,hive_04,2026-03-15 03:04:09+00:00,3,0.4844,-0.35,1.0546,0.0,Modulation features unavailable for this window (neutral contribution)
+452,hive_04,2026-03-15 22:06:15+00:00,22,0.4842,-0.15,1.0728,0.0,Modulation features unavailable for this window (neutral contribution)
+453,hive_03,2026-03-08 14:36:26+00:00,14,0.4836,-0.5556,0.9252,0.0,Modulation features unavailable for this window (neutral contribution)
+454,hive_03,2026-03-16 02:36:50+00:00,2,0.4826,-0.3,0.7872,0.0,Modulation features unavailable for this window (neutral contribution)
+455,hive_03,2026-03-08 18:37:45+00:00,18,0.482,-0.4,1.1291,0.0,Modulation features unavailable for this window (neutral contribution)
+456,hive_04,2026-03-11 03:07:34+00:00,3,0.4819,-0.35,1.0769,0.0,Modulation features unavailable for this window (neutral contribution)
+457,hive_04,2026-03-10 21:07:13+00:00,21,0.4818,-0.15,1.0268,0.0,Modulation features unavailable for this window (neutral contribution)
+458,hive_04,2026-03-15 19:05:54+00:00,19,0.4817,-0.1,1.0694,0.0,Modulation features unavailable for this window (neutral contribution)
+459,hive_04,2026-03-15 23:06:37+00:00,23,0.4803,-0.2105,1.0521,0.0,Modulation features unavailable for this window (neutral contribution)
+460,hive_03,2026-03-09 05:11:05+00:00,5,0.4801,0.5,0.3081,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+461,hive_04,2026-03-15 18:05:54+00:00,18,0.4793,-0.4,1.055,0.0,Modulation features unavailable for this window (neutral contribution)
+462,hive_04,2026-03-09 20:03:43+00:00,20,0.4785,-0.4,1.1138,0.0,Modulation features unavailable for this window (neutral contribution)
+463,hive_03,2026-03-14 23:34:09+00:00,23,0.478,-0.2105,0.7607,0.0,Modulation features unavailable for this window (neutral contribution)
+464,hive_04,2026-03-15 17:35:54+00:00,17,0.4777,-0.45,1.0452,0.0,Modulation features unavailable for this window (neutral contribution)
+465,hive_03,2026-03-08 11:05:46+00:00,11,0.4777,0.4444,0.3362,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+466,hive_04,2026-03-15 18:35:54+00:00,18,0.477,-0.4,1.0463,0.0,Modulation features unavailable for this window (neutral contribution)
+467,hive_04,2026-03-15 17:05:54+00:00,17,0.4769,-0.45,1.0299,0.0,Modulation features unavailable for this window (neutral contribution)
+468,hive_04,2026-03-15 15:35:54+00:00,15,0.4762,-0.4444,1.0255,0.0,Modulation features unavailable for this window (neutral contribution)
+469,hive_04,2026-03-11 11:10:35+00:00,11,0.4755,-0.5556,0.7007,0.0,Modulation features unavailable for this window (neutral contribution)
+470,hive_04,2026-03-09 15:03:22+00:00,15,0.4754,-0.4444,0.8434,0.0,Modulation features unavailable for this window (neutral contribution)
+471,hive_04,2026-03-15 01:04:09+00:00,1,0.4746,-0.2,1.0508,0.0,Modulation features unavailable for this window (neutral contribution)
+472,hive_04,2026-03-13 08:28:21+00:00,8,0.4743,-0.2632,0.8679,0.0,Modulation features unavailable for this window (neutral contribution)
+473,hive_04,2026-03-12 03:25:53+00:00,3,0.4743,-0.35,0.9971,0.0,Modulation features unavailable for this window (neutral contribution)
+474,hive_04,2026-03-14 18:03:28+00:00,18,0.4737,-0.4,0.9522,0.0,Modulation features unavailable for this window (neutral contribution)
+475,hive_04,2026-03-15 01:34:09+00:00,1,0.4734,-0.2,1.044,0.0,Modulation features unavailable for this window (neutral contribution)
+476,hive_04,2026-03-15 03:34:09+00:00,3,0.4733,-0.35,1.0252,0.0,Modulation features unavailable for this window (neutral contribution)
+477,hive_04,2026-03-16 11:07:19+00:00,11,0.4728,-0.5556,0.9187,0.0,Modulation features unavailable for this window (neutral contribution)
+478,hive_03,2026-03-13 07:56:05+00:00,7,0.4725,0.8,0.2372,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+479,hive_04,2026-03-15 23:36:37+00:00,23,0.471,-0.2105,1.0234,0.0,Modulation features unavailable for this window (neutral contribution)
+480,hive_04,2026-03-14 19:33:28+00:00,19,0.4705,-0.1,1.0304,0.0,Modulation features unavailable for this window (neutral contribution)
+481,hive_04,2026-03-14 04:31:43+00:00,4,0.4704,-0.3,0.9502,0.0,Modulation features unavailable for this window (neutral contribution)
+482,hive_03,2026-03-11 00:45:04+00:00,0,0.4703,-0.2,1.0126,0.0,Modulation features unavailable for this window (neutral contribution)
+483,hive_03,2026-03-14 14:03:09+00:00,14,0.4698,0.4444,0.4264,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+484,hive_04,2026-03-14 19:03:28+00:00,19,0.4688,-0.1,1.0314,0.0,Modulation features unavailable for this window (neutral contribution)
+485,hive_04,2026-03-11 03:37:34+00:00,3,0.468,-0.35,0.9931,0.0,Modulation features unavailable for this window (neutral contribution)
+486,hive_03,2026-03-15 00:04:09+00:00,0,0.4661,-0.2,0.9167,0.0,Modulation features unavailable for this window (neutral contribution)
+487,hive_04,2026-03-10 22:07:13+00:00,22,0.4646,-0.15,0.9823,0.0,Modulation features unavailable for this window (neutral contribution)
+488,hive_03,2026-03-13 17:29:09+00:00,17,0.4642,0.55,0.2747,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+489,hive_03,2026-03-08 18:07:25+00:00,18,0.4638,-0.4,1.1491,0.0,Modulation features unavailable for this window (neutral contribution)
+490,hive_04,2026-03-13 08:58:21+00:00,8,0.4619,-0.2632,0.9821,0.0,Modulation features unavailable for this window (neutral contribution)
+491,hive_03,2026-03-09 08:11:05+00:00,8,0.4613,0.7368,0.2461,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+492,hive_04,2026-03-16 11:37:19+00:00,11,0.4611,-0.5556,0.927,0.0,Modulation features unavailable for this window (neutral contribution)
+493,hive_04,2026-03-14 20:33:28+00:00,20,0.4607,-0.4,0.9884,0.0,Modulation features unavailable for this window (neutral contribution)
+494,hive_04,2026-03-14 08:01:43+00:00,8,0.4605,-0.2632,1.0289,0.0,Modulation features unavailable for this window (neutral contribution)
+495,hive_04,2026-03-14 20:03:28+00:00,20,0.4605,-0.4,0.9806,0.0,Modulation features unavailable for this window (neutral contribution)
+496,hive_04,2026-03-14 18:33:28+00:00,18,0.4601,-0.4,0.9964,0.0,Modulation features unavailable for this window (neutral contribution)
+497,hive_03,2026-03-13 13:57:06+00:00,13,0.4598,-0.3889,0.9648,0.0,Modulation features unavailable for this window (neutral contribution)
+498,hive_04,2026-03-10 18:06:10+00:00,18,0.4593,-0.4,0.9278,0.0,Modulation features unavailable for this window (neutral contribution)
+499,hive_04,2026-03-10 17:36:11+00:00,17,0.4591,-0.45,0.8594,0.0,Modulation features unavailable for this window (neutral contribution)
+500,hive_04,2026-03-10 19:36:31+00:00,19,0.4589,-0.1,0.8923,0.0,Modulation features unavailable for this window (neutral contribution)
+501,hive_04,2026-03-14 06:31:43+00:00,6,0.4585,-0.45,0.8416,0.0,Modulation features unavailable for this window (neutral contribution)
+502,hive_03,2026-03-09 14:11:45+00:00,14,0.4584,0.4444,0.3775,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+503,hive_04,2026-03-09 17:03:43+00:00,17,0.4569,-0.45,0.8637,0.0,Modulation features unavailable for this window (neutral contribution)
+504,hive_03,2026-03-16 12:38:10+00:00,12,0.4566,-0.5556,0.9193,0.0,Modulation features unavailable for this window (neutral contribution)
+505,hive_04,2026-03-14 07:01:43+00:00,7,0.4562,-0.2,0.8937,0.0,Modulation features unavailable for this window (neutral contribution)
+506,hive_04,2026-03-14 09:01:43+00:00,9,0.455,-0.3889,0.9602,0.0,Modulation features unavailable for this window (neutral contribution)
+507,hive_04,2026-03-14 15:32:25+00:00,15,0.4532,-0.4444,0.8677,0.0,Modulation features unavailable for this window (neutral contribution)
+508,hive_04,2026-03-12 04:55:53+00:00,4,0.4524,-0.3,0.9409,0.0,Modulation features unavailable for this window (neutral contribution)
+509,hive_04,2026-03-09 13:33:02+00:00,13,0.4523,-0.3889,0.869,0.0,Modulation features unavailable for this window (neutral contribution)
+510,hive_04,2026-03-14 08:31:43+00:00,8,0.4522,-0.2632,0.98,0.0,Modulation features unavailable for this window (neutral contribution)
+511,hive_04,2026-03-11 04:07:34+00:00,4,0.4509,-0.3,0.9196,0.0,Modulation features unavailable for this window (neutral contribution)
+512,hive_03,2026-03-12 06:24:06+00:00,6,0.4503,0.55,0.2971,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+513,hive_03,2026-03-08 21:09:05+00:00,21,0.4501,-0.15,0.8437,0.0,Modulation features unavailable for this window (neutral contribution)
+514,hive_04,2026-03-11 11:30:15+00:00,11,0.4487,-0.5556,0.8782,0.0,Modulation features unavailable for this window (neutral contribution)
+515,hive_03,2026-03-11 16:21:16+00:00,16,0.4484,0.5556,0.3,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+516,hive_04,2026-03-11 16:52:54+00:00,16,0.4483,-0.4444,0.865,0.0,Modulation features unavailable for this window (neutral contribution)
+517,hive_04,2026-03-10 03:04:47+00:00,3,0.4469,-0.35,0.8462,0.0,Modulation features unavailable for this window (neutral contribution)
+518,hive_04,2026-03-15 11:35:13+00:00,11,0.4462,-0.5556,0.7223,0.0,Modulation features unavailable for this window (neutral contribution)
+519,hive_03,2026-03-16 12:08:10+00:00,12,0.4462,-0.5556,0.9183,0.0,Modulation features unavailable for this window (neutral contribution)
+520,hive_03,2026-03-09 17:11:45+00:00,17,0.4452,0.55,0.2527,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+521,hive_04,2026-03-11 22:55:31+00:00,22,0.4447,-0.15,0.943,0.0,Modulation features unavailable for this window (neutral contribution)
+522,hive_04,2026-03-13 16:29:45+00:00,16,0.444,-0.4444,1.0005,0.0,Modulation features unavailable for this window (neutral contribution)
+523,hive_04,2026-03-11 17:22:54+00:00,17,0.4439,-0.45,0.9034,0.0,Modulation features unavailable for this window (neutral contribution)
+524,hive_04,2026-03-12 05:25:53+00:00,5,0.4427,-0.5,0.873,0.0,Modulation features unavailable for this window (neutral contribution)
+525,hive_03,2026-03-17 06:08:30+00:00,6,0.4417,0.55,0.2604,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+526,hive_03,2026-03-08 21:39:25+00:00,21,0.4411,-0.15,0.8622,0.0,Modulation features unavailable for this window (neutral contribution)
+527,hive_03,2026-03-13 09:56:26+00:00,9,0.4406,-0.3889,1.081,0.0,Modulation features unavailable for this window (neutral contribution)
+528,hive_03,2026-03-13 14:57:26+00:00,14,0.4404,-0.5556,0.8254,0.0,Modulation features unavailable for this window (neutral contribution)
+529,hive_04,2026-03-09 15:33:22+00:00,15,0.4401,-0.4444,0.8642,0.0,Modulation features unavailable for this window (neutral contribution)
+530,hive_04,2026-03-13 15:29:45+00:00,15,0.4399,-0.4444,0.7213,0.0,Modulation features unavailable for this window (neutral contribution)
+531,hive_04,2026-03-13 04:27:59+00:00,4,0.4392,-0.3,0.8324,0.0,Modulation features unavailable for this window (neutral contribution)
+532,hive_04,2026-03-15 14:05:33+00:00,14,0.4391,-0.5556,0.8586,0.0,Modulation features unavailable for this window (neutral contribution)
+533,hive_04,2026-03-10 20:06:31+00:00,20,0.4385,-0.4,0.8437,0.0,Modulation features unavailable for this window (neutral contribution)
+534,hive_04,2026-03-11 22:25:31+00:00,22,0.4374,-0.15,0.9215,0.0,Modulation features unavailable for this window (neutral contribution)
+535,hive_03,2026-03-09 11:11:45+00:00,11,0.4372,0.4444,0.167,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+536,hive_03,2026-03-09 17:41:45+00:00,17,0.4369,0.55,0.266,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+537,hive_04,2026-03-12 15:56:35+00:00,15,0.4366,-0.4444,0.8573,0.0,Modulation features unavailable for this window (neutral contribution)
+538,hive_04,2026-03-11 20:25:31+00:00,20,0.4364,-0.4,0.976,0.0,Modulation features unavailable for this window (neutral contribution)
+539,hive_04,2026-03-14 02:31:22+00:00,2,0.4359,-0.3,0.9127,0.0,Modulation features unavailable for this window (neutral contribution)
+540,hive_03,2026-03-16 04:36:50+00:00,4,0.4354,-0.3,0.9592,0.0,Modulation features unavailable for this window (neutral contribution)
+541,hive_03,2026-03-16 05:36:50+00:00,5,0.4353,-0.5,0.882,0.0,Modulation features unavailable for this window (neutral contribution)
+542,hive_04,2026-03-08 12:22:11+00:00,12,0.4345,-0.5556,0.7127,0.0,Modulation features unavailable for this window (neutral contribution)
+543,hive_03,2026-03-16 14:38:10+00:00,14,0.4338,-0.5556,0.8301,0.0,Modulation features unavailable for this window (neutral contribution)
+544,hive_04,2026-03-09 18:03:43+00:00,18,0.4336,-0.4,0.8817,0.0,Modulation features unavailable for this window (neutral contribution)
+545,hive_04,2026-03-12 03:55:53+00:00,3,0.432,-0.35,0.8378,0.0,Modulation features unavailable for this window (neutral contribution)
+546,hive_03,2026-03-10 03:42:45+00:00,3,0.4317,-0.35,0.6593,0.0,Modulation features unavailable for this window (neutral contribution)
+547,hive_03,2026-03-14 22:03:49+00:00,22,0.4312,-0.15,0.8721,0.0,Modulation features unavailable for this window (neutral contribution)
+548,hive_03,2026-03-14 21:33:49+00:00,21,0.4305,-0.15,0.7959,0.0,Modulation features unavailable for this window (neutral contribution)
+549,hive_03,2026-03-08 10:35:46+00:00,10,0.4304,-0.4444,0.6989,0.0,Modulation features unavailable for this window (neutral contribution)
+550,hive_04,2026-03-12 12:55:53+00:00,12,0.4296,-0.5556,0.9262,0.0,Modulation features unavailable for this window (neutral contribution)
+551,hive_03,2026-03-14 02:00:29+00:00,2,0.4291,-0.3,0.8347,0.0,Modulation features unavailable for this window (neutral contribution)
+552,hive_04,2026-03-14 02:01:22+00:00,2,0.4288,-0.3,0.8974,0.0,Modulation features unavailable for this window (neutral contribution)
+553,hive_04,2026-03-09 17:33:43+00:00,17,0.4278,-0.45,0.8333,0.0,Modulation features unavailable for this window (neutral contribution)
+554,hive_03,2026-03-08 15:06:46+00:00,15,0.4276,-0.4444,0.7814,0.0,Modulation features unavailable for this window (neutral contribution)
+555,hive_04,2026-03-12 00:55:31+00:00,0,0.4272,-0.2,0.8826,0.0,Modulation features unavailable for this window (neutral contribution)
+556,hive_04,2026-03-14 12:32:04+00:00,12,0.426,-0.5556,0.6758,0.0,Modulation features unavailable for this window (neutral contribution)
+557,hive_04,2026-03-13 20:01:22+00:00,20,0.4254,-0.4,0.7381,0.0,Modulation features unavailable for this window (neutral contribution)
+558,hive_04,2026-03-10 22:37:13+00:00,22,0.4251,-0.15,0.8105,0.0,Modulation features unavailable for this window (neutral contribution)
+559,hive_04,2026-03-14 05:01:43+00:00,5,0.4249,-0.5,0.8435,0.0,Modulation features unavailable for this window (neutral contribution)
+560,hive_04,2026-03-13 21:31:22+00:00,21,0.4248,-0.15,0.8624,0.0,Modulation features unavailable for this window (neutral contribution)
+561,hive_04,2026-03-13 03:57:59+00:00,3,0.4241,-0.35,0.743,0.0,Modulation features unavailable for this window (neutral contribution)
+562,hive_04,2026-03-13 22:01:22+00:00,22,0.4239,-0.15,0.8485,0.0,Modulation features unavailable for this window (neutral contribution)
+563,hive_03,2026-03-14 07:01:09+00:00,7,0.4199,-0.2,0.6784,0.0,Modulation features unavailable for this window (neutral contribution)
+564,hive_04,2026-03-12 19:57:17+00:00,19,0.4195,-0.1,0.8089,0.0,Modulation features unavailable for this window (neutral contribution)
+565,hive_03,2026-03-14 09:01:49+00:00,9,0.4194,-0.3889,0.6934,0.0,Modulation features unavailable for this window (neutral contribution)
+566,hive_04,2026-03-11 02:07:34+00:00,2,0.4184,-0.3,0.886,0.0,Modulation features unavailable for this window (neutral contribution)
+567,hive_03,2026-03-07 17:03:14+00:00,17,0.4181,-0.45,0.8341,0.0,Modulation features unavailable for this window (neutral contribution)
+568,hive_04,2026-03-13 05:57:59+00:00,5,0.4174,-0.5,0.8568,0.0,Modulation features unavailable for this window (neutral contribution)
+569,hive_04,2026-03-10 23:07:13+00:00,23,0.4173,-0.2105,0.8129,0.0,Modulation features unavailable for this window (neutral contribution)
+570,hive_03,2026-03-17 05:38:30+00:00,5,0.4171,0.5,0.2788,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+571,hive_03,2026-03-08 11:35:46+00:00,11,0.4168,0.4444,0.1406,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+572,hive_04,2026-03-13 22:31:22+00:00,22,0.4161,-0.15,0.8176,0.0,Modulation features unavailable for this window (neutral contribution)
+573,hive_04,2026-03-11 00:37:34+00:00,0,0.4139,-0.2,0.7689,0.0,Modulation features unavailable for this window (neutral contribution)
+574,hive_03,2026-03-12 05:54:06+00:00,5,0.4135,0.5,0.2706,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+575,hive_04,2026-03-15 13:05:33+00:00,13,0.4126,-0.3889,0.6575,0.0,Modulation features unavailable for this window (neutral contribution)
+576,hive_04,2026-03-13 04:57:59+00:00,4,0.4126,-0.3,0.8283,0.0,Modulation features unavailable for this window (neutral contribution)
+577,hive_03,2026-03-14 14:33:09+00:00,14,0.4124,0.4444,0.2478,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+578,hive_04,2026-03-13 13:59:24+00:00,13,0.4122,-0.3889,0.5753,0.0,Modulation features unavailable for this window (neutral contribution)
+579,hive_03,2026-03-15 10:04:29+00:00,10,0.4119,-0.4444,0.7105,0.0,Modulation features unavailable for this window (neutral contribution)
+580,hive_04,2026-03-11 20:55:31+00:00,20,0.4111,-0.4,0.8124,0.0,Modulation features unavailable for this window (neutral contribution)
+581,hive_04,2026-03-09 23:04:26+00:00,23,0.4108,-0.2105,0.7432,0.0,Modulation features unavailable for this window (neutral contribution)
+582,hive_03,2026-03-16 05:06:50+00:00,5,0.41,-0.5,0.8056,0.0,Modulation features unavailable for this window (neutral contribution)
+583,hive_04,2026-03-13 21:01:22+00:00,21,0.4098,-0.15,0.8209,0.0,Modulation features unavailable for this window (neutral contribution)
+584,hive_04,2026-03-12 19:27:17+00:00,19,0.4095,-0.1,0.7843,0.0,Modulation features unavailable for this window (neutral contribution)
+585,hive_04,2026-03-11 21:25:31+00:00,21,0.4095,-0.15,0.793,0.0,Modulation features unavailable for this window (neutral contribution)
+586,hive_04,2026-03-14 14:32:04+00:00,14,0.4084,-0.5556,0.8044,0.0,Modulation features unavailable for this window (neutral contribution)
+587,hive_04,2026-03-14 07:31:43+00:00,7,0.4083,-0.2,0.7913,0.0,Modulation features unavailable for this window (neutral contribution)
+588,hive_03,2026-03-13 05:55:45+00:00,5,0.4069,0.5,0.2316,0.0,Cluster transitions exceed matched-hour control baseline; Modulation features unavailable for this window (neutral contribution)
+589,hive_04,2026-03-12 17:26:35+00:00,17,0.4066,-0.45,0.6255,0.0,Modulation features unavailable for this window (neutral contribution)
+590,hive_04,2026-03-12 18:26:56+00:00,18,0.4042,-0.4,0.7617,0.0,Modulation features unavailable for this window (neutral contribution)
+591,hive_04,2026-03-13 20:31:22+00:00,20,0.4038,-0.4,0.7889,0.0,Modulation features unavailable for this window (neutral contribution)
+592,hive_04,2026-03-10 23:37:13+00:00,23,0.4034,-0.2105,0.7898,0.0,Modulation features unavailable for this window (neutral contribution)
+593,hive_04,2026-03-11 21:55:31+00:00,21,0.4034,-0.15,0.7912,0.0,Modulation features unavailable for this window (neutral contribution)
+594,hive_04,2026-03-15 14:35:54+00:00,14,0.4029,-0.5556,0.7079,0.0,Modulation features unavailable for this window (neutral contribution)
+595,hive_03,2026-03-14 04:00:29+00:00,4,0.4028,-0.3,0.8072,0.0,Modulation features unavailable for this window (neutral contribution)
+596,hive_04,2026-03-10 00:04:26+00:00,0,0.4022,-0.2,0.8021,0.0,Modulation features unavailable for this window (neutral contribution)
+597,hive_04,2026-03-09 19:03:43+00:00,19,0.4014,-0.1,0.7877,0.0,Modulation features unavailable for this window (neutral contribution)
+598,hive_04,2026-03-09 19:33:43+00:00,19,0.4012,-0.1,0.7937,0.0,Modulation features unavailable for this window (neutral contribution)
+599,hive_04,2026-03-12 01:25:31+00:00,1,0.401,-0.2,0.7705,0.0,Modulation features unavailable for this window (neutral contribution)
+600,hive_03,2026-03-14 03:30:29+00:00,3,0.3998,-0.35,0.7975,0.0,Modulation features unavailable for this window (neutral contribution)
+601,hive_04,2026-03-13 06:27:59+00:00,6,0.3982,-0.45,0.7897,0.0,Modulation features unavailable for this window (neutral contribution)
+602,hive_03,2026-03-15 22:05:49+00:00,22,0.3981,-0.15,0.5406,0.0,Modulation features unavailable for this window (neutral contribution)
+603,hive_03,2026-03-10 06:42:45+00:00,6,0.3965,-0.45,0.6516,0.0,Modulation features unavailable for this window (neutral contribution)
+604,hive_04,2026-03-13 23:31:22+00:00,23,0.3962,-0.2105,0.7736,0.0,Modulation features unavailable for this window (neutral contribution)
+605,hive_04,2026-03-12 00:25:31+00:00,0,0.3952,-0.2,0.7952,0.0,Modulation features unavailable for this window (neutral contribution)
+606,hive_04,2026-03-09 23:34:26+00:00,23,0.3949,-0.2105,0.7411,0.0,Modulation features unavailable for this window (neutral contribution)
+607,hive_04,2026-03-12 01:55:31+00:00,1,0.3946,-0.2,0.759,0.0,Modulation features unavailable for this window (neutral contribution)
+608,hive_03,2026-03-09 22:12:05+00:00,22,0.3933,-0.15,0.5242,0.0,Modulation features unavailable for this window (neutral contribution)
+609,hive_04,2026-03-11 18:22:54+00:00,18,0.3931,-0.4,0.7544,0.0,Modulation features unavailable for this window (neutral contribution)
+610,hive_03,2026-03-16 01:06:30+00:00,1,0.3925,-0.2,0.8028,0.0,Modulation features unavailable for this window (neutral contribution)
+611,hive_04,2026-03-11 17:52:54+00:00,17,0.3922,-0.45,0.7352,0.0,Modulation features unavailable for this window (neutral contribution)
+612,hive_03,2026-03-14 02:30:29+00:00,2,0.3907,-0.3,0.7786,0.0,Modulation features unavailable for this window (neutral contribution)
+613,hive_04,2026-03-09 18:33:43+00:00,18,0.39,-0.4,0.7317,0.0,Modulation features unavailable for this window (neutral contribution)
+614,hive_03,2026-03-10 04:42:45+00:00,4,0.3899,-0.3,0.784,0.0,Modulation features unavailable for this window (neutral contribution)
+615,hive_03,2026-03-16 03:06:50+00:00,3,0.3888,-0.35,0.6317,0.0,Modulation features unavailable for this window (neutral contribution)
+616,hive_03,2026-03-13 11:26:46+00:00,11,0.3888,-0.5556,0.5645,0.0,Modulation features unavailable for this window (neutral contribution)
+617,hive_04,2026-03-12 12:25:53+00:00,12,0.3876,-0.5556,0.7945,0.0,Modulation features unavailable for this window (neutral contribution)
+618,hive_03,2026-03-10 04:12:45+00:00,4,0.3864,-0.3,0.6653,0.0,Modulation features unavailable for this window (neutral contribution)
+619,hive_03,2026-03-09 10:11:45+00:00,10,0.3861,-0.4444,0.4525,0.0,Modulation features unavailable for this window (neutral contribution)
+620,hive_04,2026-03-12 22:57:17+00:00,22,0.3856,-0.15,0.75,0.0,Modulation features unavailable for this window (neutral contribution)
+621,hive_04,2026-03-14 01:01:22+00:00,1,0.3853,-0.2,0.7611,0.0,Modulation features unavailable for this window (neutral contribution)
+622,hive_04,2026-03-12 22:27:17+00:00,22,0.3852,-0.15,0.7502,0.0,Modulation features unavailable for this window (neutral contribution)
+623,hive_04,2026-03-13 23:01:22+00:00,23,0.3846,-0.2105,0.7174,0.0,Modulation features unavailable for this window (neutral contribution)
+624,hive_04,2026-03-13 00:57:17+00:00,0,0.3845,-0.2,0.7606,0.0,Modulation features unavailable for this window (neutral contribution)
+625,hive_04,2026-03-12 20:27:17+00:00,20,0.3825,-0.4,0.7194,0.0,Modulation features unavailable for this window (neutral contribution)
+626,hive_03,2026-03-16 11:08:10+00:00,11,0.3822,-0.5556,0.6363,0.0,Modulation features unavailable for this window (neutral contribution)
+627,hive_03,2026-03-09 11:41:45+00:00,11,0.382,-0.5556,0.5837,0.0,Modulation features unavailable for this window (neutral contribution)
+628,hive_04,2026-03-13 01:57:17+00:00,1,0.3799,-0.2,0.7253,0.0,Modulation features unavailable for this window (neutral contribution)
+629,hive_04,2026-03-14 01:31:22+00:00,1,0.3799,-0.2,0.7271,0.0,Modulation features unavailable for this window (neutral contribution)
+630,hive_03,2026-03-15 15:35:29+00:00,15,0.3796,-0.4444,0.5888,0.0,Modulation features unavailable for this window (neutral contribution)
+631,hive_03,2026-03-16 00:06:30+00:00,0,0.3795,-0.2,0.5433,0.0,Modulation features unavailable for this window (neutral contribution)
+632,hive_03,2026-03-08 05:34:13+00:00,5,0.3795,-0.5,0.5874,0.0,Modulation features unavailable for this window (neutral contribution)
+633,hive_04,2026-03-12 11:25:53+00:00,11,0.3792,-0.5556,0.5519,0.0,Modulation features unavailable for this window (neutral contribution)
+634,hive_03,2026-03-16 16:08:10+00:00,16,0.3784,-0.4444,0.4928,0.0,Modulation features unavailable for this window (neutral contribution)
+635,hive_04,2026-03-12 23:27:17+00:00,23,0.3778,-0.2105,0.7159,0.0,Modulation features unavailable for this window (neutral contribution)
+636,hive_04,2026-03-12 05:55:53+00:00,5,0.3777,-0.5,0.6733,0.0,Modulation features unavailable for this window (neutral contribution)
+637,hive_04,2026-03-12 21:27:17+00:00,21,0.3774,-0.15,0.7238,0.0,Modulation features unavailable for this window (neutral contribution)
+638,hive_03,2026-03-12 14:25:06+00:00,14,0.3774,-0.5556,0.6931,0.0,Modulation features unavailable for this window (neutral contribution)
+639,hive_04,2026-03-13 01:27:17+00:00,1,0.3769,-0.2,0.7183,0.0,Modulation features unavailable for this window (neutral contribution)
+640,hive_03,2026-03-16 04:06:50+00:00,4,0.3762,-0.3,0.7387,0.0,Modulation features unavailable for this window (neutral contribution)
+641,hive_03,2026-03-14 00:30:29+00:00,0,0.3753,-0.2,0.5457,0.0,Modulation features unavailable for this window (neutral contribution)
+642,hive_04,2026-03-11 23:55:31+00:00,23,0.375,-0.2105,0.699,0.0,Modulation features unavailable for this window (neutral contribution)
+643,hive_04,2026-03-14 11:02:04+00:00,11,0.3739,-0.5556,0.3909,0.0,Modulation features unavailable for this window (neutral contribution)
+644,hive_04,2026-03-12 20:57:17+00:00,20,0.3732,-0.4,0.6967,0.0,Modulation features unavailable for this window (neutral contribution)
+645,hive_03,2026-03-16 10:07:50+00:00,10,0.3732,-0.4444,0.5299,0.0,Modulation features unavailable for this window (neutral contribution)
+646,hive_03,2026-03-16 22:38:31+00:00,22,0.3729,-0.15,0.48,0.0,Modulation features unavailable for this window (neutral contribution)
+647,hive_03,2026-03-13 23:00:09+00:00,23,0.3725,-0.2105,0.4347,0.0,Modulation features unavailable for this window (neutral contribution)
+648,hive_04,2026-03-12 21:57:17+00:00,21,0.3725,-0.15,0.7054,0.0,Modulation features unavailable for this window (neutral contribution)
+649,hive_03,2026-03-16 13:08:10+00:00,13,0.3724,-0.3889,0.6545,0.0,Modulation features unavailable for this window (neutral contribution)
+650,hive_04,2026-03-14 00:31:22+00:00,0,0.3719,-0.2,0.7005,0.0,Modulation features unavailable for this window (neutral contribution)
+651,hive_04,2026-03-11 14:52:12+00:00,14,0.3718,-0.5556,0.7627,0.0,Modulation features unavailable for this window (neutral contribution)
+652,hive_03,2026-03-13 09:26:26+00:00,9,0.3716,-0.3889,0.5496,0.0,Modulation features unavailable for this window (neutral contribution)
+653,hive_03,2026-03-13 20:29:49+00:00,20,0.3714,-0.4,0.4176,0.0,Modulation features unavailable for this window (neutral contribution)
+654,hive_03,2026-03-13 16:59:09+00:00,16,0.3704,-0.4444,0.4949,0.0,Modulation features unavailable for this window (neutral contribution)
+655,hive_04,2026-03-13 15:59:45+00:00,15,0.3686,-0.4444,0.6279,0.0,Modulation features unavailable for this window (neutral contribution)
+656,hive_03,2026-03-16 00:36:30+00:00,0,0.3685,-0.2,0.6229,0.0,Modulation features unavailable for this window (neutral contribution)
+657,hive_03,2026-03-10 05:12:45+00:00,5,0.368,-0.5,0.6867,0.0,Modulation features unavailable for this window (neutral contribution)
+658,hive_04,2026-03-13 00:27:17+00:00,0,0.3676,-0.2,0.6956,0.0,Modulation features unavailable for this window (neutral contribution)
+659,hive_03,2026-03-08 17:07:25+00:00,17,0.3675,-0.45,0.4419,0.0,Modulation features unavailable for this window (neutral contribution)
+660,hive_04,2026-03-11 01:07:34+00:00,1,0.3673,-0.2,0.5893,0.0,Modulation features unavailable for this window (neutral contribution)
+661,hive_04,2026-03-12 23:57:17+00:00,23,0.3644,-0.2105,0.6698,0.0,Modulation features unavailable for this window (neutral contribution)
+662,hive_03,2026-03-16 13:38:10+00:00,13,0.3639,-0.3889,0.6567,0.0,Modulation features unavailable for this window (neutral contribution)
+663,hive_03,2026-03-14 03:00:29+00:00,3,0.3638,-0.35,0.6462,0.0,Modulation features unavailable for this window (neutral contribution)
+664,hive_04,2026-03-11 23:25:31+00:00,23,0.3638,-0.2105,0.6106,0.0,Modulation features unavailable for this window (neutral contribution)
+665,hive_04,2026-03-13 05:27:59+00:00,5,0.363,-0.5,0.6388,0.0,Modulation features unavailable for this window (neutral contribution)
+666,hive_04,2026-03-14 00:01:22+00:00,0,0.3625,-0.2,0.6612,0.0,Modulation features unavailable for this window (neutral contribution)
+667,hive_03,2026-03-09 02:10:25+00:00,2,0.3614,-0.3,0.3956,0.0,Modulation features unavailable for this window (neutral contribution)
+668,hive_04,2026-03-12 13:55:53+00:00,13,0.3599,-0.3889,0.6622,0.0,Modulation features unavailable for this window (neutral contribution)
+669,hive_04,2026-03-11 19:22:54+00:00,19,0.3599,-0.1,0.666,0.0,Modulation features unavailable for this window (neutral contribution)
+670,hive_03,2026-03-08 23:40:05+00:00,23,0.3592,-0.2105,0.4026,0.0,Modulation features unavailable for this window (neutral contribution)
+671,hive_04,2026-03-11 19:54:09+00:00,19,0.359,-0.1,0.6728,0.0,Modulation features unavailable for this window (neutral contribution)
+672,hive_03,2026-03-16 19:08:10+00:00,19,0.3571,-0.1,0.565,0.0,Modulation features unavailable for this window (neutral contribution)
+673,hive_04,2026-03-13 16:59:45+00:00,16,0.357,-0.4444,0.623,0.0,Modulation features unavailable for this window (neutral contribution)
+674,hive_03,2026-03-16 03:36:50+00:00,3,0.356,-0.35,0.6426,0.0,Modulation features unavailable for this window (neutral contribution)
+675,hive_03,2026-03-12 11:54:26+00:00,11,0.3551,-0.5556,0.6824,0.0,Modulation features unavailable for this window (neutral contribution)
+676,hive_03,2026-03-12 12:54:46+00:00,12,0.3545,-0.5556,0.5566,0.0,Modulation features unavailable for this window (neutral contribution)
+677,hive_04,2026-03-12 14:26:14+00:00,14,0.3539,-0.5556,0.6708,0.0,Modulation features unavailable for this window (neutral contribution)
+678,hive_03,2026-03-16 16:38:10+00:00,16,0.3528,-0.4444,0.5377,0.0,Modulation features unavailable for this window (neutral contribution)
+679,hive_03,2026-03-08 17:37:25+00:00,17,0.3523,-0.45,0.4782,0.0,Modulation features unavailable for this window (neutral contribution)
+680,hive_03,2026-03-10 02:12:25+00:00,2,0.3513,-0.3,0.6845,0.0,Modulation features unavailable for this window (neutral contribution)
+681,hive_04,2026-03-12 14:56:14+00:00,14,0.3511,-0.5556,0.6381,0.0,Modulation features unavailable for this window (neutral contribution)
+682,hive_04,2026-03-11 18:52:54+00:00,18,0.35,-0.4,0.605,0.0,Modulation features unavailable for this window (neutral contribution)
+683,hive_04,2026-03-11 01:37:34+00:00,1,0.3495,-0.2,0.6244,0.0,Modulation features unavailable for this window (neutral contribution)
+684,hive_03,2026-03-08 06:04:13+00:00,6,0.3493,-0.45,0.5426,0.0,Modulation features unavailable for this window (neutral contribution)
+685,hive_04,2026-03-09 13:03:02+00:00,13,0.3493,-0.3889,0.3655,0.0,Modulation features unavailable for this window (neutral contribution)
+686,hive_03,2026-03-09 23:42:25+00:00,23,0.3477,-0.2105,0.3464,0.0,Modulation features unavailable for this window (neutral contribution)
+687,hive_03,2026-03-16 18:38:10+00:00,18,0.3468,-0.4,0.5507,0.0,Modulation features unavailable for this window (neutral contribution)
+688,hive_03,2026-03-09 04:10:45+00:00,4,0.3458,-0.3,0.3761,0.0,Modulation features unavailable for this window (neutral contribution)
+689,hive_03,2026-03-14 01:30:29+00:00,1,0.3449,-0.2,0.5028,0.0,Modulation features unavailable for this window (neutral contribution)
+690,hive_04,2026-03-11 14:22:12+00:00,14,0.3449,-0.5556,0.5832,0.0,Modulation features unavailable for this window (neutral contribution)
+691,hive_04,2026-03-12 11:55:53+00:00,11,0.3444,-0.5556,0.5122,0.0,Modulation features unavailable for this window (neutral contribution)
+692,hive_03,2026-03-11 14:51:16+00:00,14,0.344,-0.5556,0.6774,0.0,Modulation features unavailable for this window (neutral contribution)
+693,hive_03,2026-03-14 18:03:29+00:00,18,0.3437,-0.4,0.5441,0.0,Modulation features unavailable for this window (neutral contribution)
+694,hive_03,2026-03-12 14:55:06+00:00,14,0.3431,-0.5556,0.6143,0.0,Modulation features unavailable for this window (neutral contribution)
+695,hive_03,2026-03-14 17:33:29+00:00,17,0.3428,-0.45,0.4274,0.0,Modulation features unavailable for this window (neutral contribution)
+696,hive_03,2026-03-12 11:24:06+00:00,11,0.3422,-0.5556,0.6851,0.0,Modulation features unavailable for this window (neutral contribution)
+697,hive_03,2026-03-14 12:02:29+00:00,12,0.3419,-0.5556,0.428,0.0,Modulation features unavailable for this window (neutral contribution)
+698,hive_03,2026-03-12 13:54:46+00:00,13,0.3391,-0.3889,0.5234,0.0,Modulation features unavailable for this window (neutral contribution)
+699,hive_03,2026-03-14 19:03:29+00:00,19,0.3365,-0.1,0.591,0.0,Modulation features unavailable for this window (neutral contribution)
+700,hive_03,2026-03-09 15:41:45+00:00,15,0.3311,-0.4444,0.4158,0.0,Modulation features unavailable for this window (neutral contribution)
+701,hive_03,2026-03-14 19:33:29+00:00,19,0.3299,-0.1,0.5626,0.0,Modulation features unavailable for this window (neutral contribution)
+702,hive_03,2026-03-09 02:40:25+00:00,2,0.3284,-0.3,0.4664,0.0,Modulation features unavailable for this window (neutral contribution)
+703,hive_03,2026-03-07 21:33:14+00:00,21,0.328,-0.15,0.5812,0.0,Modulation features unavailable for this window (neutral contribution)
+704,hive_03,2026-03-15 13:35:09+00:00,13,0.3266,-0.3889,0.4644,0.0,Modulation features unavailable for this window (neutral contribution)
+705,hive_03,2026-03-13 18:59:29+00:00,18,0.3265,-0.4,0.3331,0.0,Modulation features unavailable for this window (neutral contribution)
+706,hive_03,2026-03-14 18:33:29+00:00,18,0.3264,-0.4,0.5818,0.0,Modulation features unavailable for this window (neutral contribution)
+707,hive_03,2026-03-07 18:33:14+00:00,18,0.326,-0.4,0.4915,0.0,Modulation features unavailable for this window (neutral contribution)
+708,hive_03,2026-03-11 18:21:36+00:00,18,0.324,-0.4,0.3336,0.0,Modulation features unavailable for this window (neutral contribution)
+709,hive_03,2026-03-08 15:37:05+00:00,15,0.3232,-0.4444,0.4628,0.0,Modulation features unavailable for this window (neutral contribution)
+710,hive_03,2026-03-09 00:10:05+00:00,0,0.3225,-0.2,0.4566,0.0,Modulation features unavailable for this window (neutral contribution)
+711,hive_04,2026-03-12 13:25:53+00:00,13,0.3219,-0.3889,0.4566,0.0,Modulation features unavailable for this window (neutral contribution)
+712,hive_03,2026-03-12 15:25:06+00:00,15,0.3216,-0.4444,0.5085,0.0,Modulation features unavailable for this window (neutral contribution)
+713,hive_03,2026-03-16 20:38:10+00:00,20,0.3206,-0.4,0.5569,0.0,Modulation features unavailable for this window (neutral contribution)
+714,hive_03,2026-03-13 11:56:46+00:00,11,0.3204,-0.5556,0.421,0.0,Modulation features unavailable for this window (neutral contribution)
+715,hive_03,2026-03-13 20:59:49+00:00,20,0.3201,-0.4,0.4397,0.0,Modulation features unavailable for this window (neutral contribution)
+716,hive_03,2026-03-10 00:12:25+00:00,0,0.3198,-0.2,0.4533,0.0,Modulation features unavailable for this window (neutral contribution)
+717,hive_03,2026-03-11 12:47:16+00:00,12,0.3194,-0.5556,0.6055,0.0,Modulation features unavailable for this window (neutral contribution)
+718,hive_04,2026-03-11 13:52:12+00:00,13,0.3189,-0.3889,0.345,0.0,Modulation features unavailable for this window (neutral contribution)
+719,hive_03,2026-03-07 22:03:14+00:00,22,0.3178,-0.15,0.5181,0.0,Modulation features unavailable for this window (neutral contribution)
+720,hive_03,2026-03-16 19:38:10+00:00,19,0.3175,-0.1,0.5133,0.0,Modulation features unavailable for this window (neutral contribution)
+721,hive_03,2026-03-13 23:30:09+00:00,23,0.3166,-0.2105,0.4229,0.0,Modulation features unavailable for this window (neutral contribution)
+722,hive_03,2026-03-16 21:08:10+00:00,21,0.316,-0.15,0.5319,0.0,Modulation features unavailable for this window (neutral contribution)
+723,hive_03,2026-03-15 11:34:49+00:00,11,0.3141,-0.5556,0.3446,0.0,Modulation features unavailable for this window (neutral contribution)
+724,hive_03,2026-03-08 13:05:46+00:00,13,0.3131,-0.3889,0.5701,0.0,Modulation features unavailable for this window (neutral contribution)
+725,hive_03,2026-03-07 21:03:14+00:00,21,0.3123,-0.15,0.5288,0.0,Modulation features unavailable for this window (neutral contribution)
+726,hive_03,2026-03-08 01:03:14+00:00,1,0.3092,-0.2,0.5144,0.0,Modulation features unavailable for this window (neutral contribution)
+727,hive_03,2026-03-07 18:03:14+00:00,18,0.3079,-0.4,0.3932,0.0,Modulation features unavailable for this window (neutral contribution)
+728,hive_03,2026-03-13 08:56:26+00:00,8,0.3078,-0.2632,0.1683,0.0,Modulation features unavailable for this window (neutral contribution)
+729,hive_03,2026-03-13 21:29:49+00:00,21,0.3069,-0.15,0.5036,0.0,Modulation features unavailable for this window (neutral contribution)
+730,hive_03,2026-03-13 13:27:06+00:00,13,0.3061,-0.3889,0.2305,0.0,Modulation features unavailable for this window (neutral contribution)
+731,hive_03,2026-03-12 10:24:06+00:00,10,0.3059,-0.4444,0.2913,0.0,Modulation features unavailable for this window (neutral contribution)
+732,hive_03,2026-03-08 07:04:13+00:00,7,0.3055,-0.2,0.4824,0.0,Modulation features unavailable for this window (neutral contribution)
+733,hive_03,2026-03-10 01:42:25+00:00,1,0.3054,-0.2,0.5019,0.0,Modulation features unavailable for this window (neutral contribution)
+734,hive_03,2026-03-08 02:03:13+00:00,2,0.3046,-0.3,0.4814,0.0,Modulation features unavailable for this window (neutral contribution)
+735,hive_03,2026-03-16 17:08:10+00:00,17,0.3035,-0.45,0.464,0.0,Modulation features unavailable for this window (neutral contribution)
+736,hive_03,2026-03-12 10:54:06+00:00,10,0.302,-0.4444,0.4092,0.0,Modulation features unavailable for this window (neutral contribution)
+737,hive_03,2026-03-07 20:33:14+00:00,20,0.3018,-0.4,0.4904,0.0,Modulation features unavailable for this window (neutral contribution)
+738,hive_03,2026-03-12 23:55:46+00:00,23,0.3007,-0.2105,0.1975,0.0,Modulation features unavailable for this window (neutral contribution)
+739,hive_03,2026-03-16 23:08:31+00:00,23,0.2994,-0.2105,0.3828,0.0,Modulation features unavailable for this window (neutral contribution)
+740,hive_03,2026-03-11 11:47:16+00:00,11,0.299,-0.5556,0.2187,0.0,Modulation features unavailable for this window (neutral contribution)
+741,hive_03,2026-03-07 19:03:14+00:00,19,0.2971,-0.1,0.4631,0.0,Modulation features unavailable for this window (neutral contribution)
+742,hive_03,2026-03-07 19:33:14+00:00,19,0.2971,-0.1,0.4544,0.0,Modulation features unavailable for this window (neutral contribution)
+743,hive_03,2026-03-13 04:25:46+00:00,4,0.2965,-0.3,0.4932,0.0,Modulation features unavailable for this window (neutral contribution)
+744,hive_03,2026-03-07 23:03:14+00:00,23,0.294,-0.2105,0.4505,0.0,Modulation features unavailable for this window (neutral contribution)
+745,hive_03,2026-03-12 18:25:26+00:00,18,0.2938,-0.4,0.3189,0.0,Modulation features unavailable for this window (neutral contribution)
+746,hive_03,2026-03-08 06:34:13+00:00,6,0.2933,-0.45,0.4335,0.0,Modulation features unavailable for this window (neutral contribution)
+747,hive_03,2026-03-17 02:38:31+00:00,2,0.2932,-0.3,0.4634,0.0,Modulation features unavailable for this window (neutral contribution)
+748,hive_03,2026-03-08 01:33:14+00:00,1,0.2931,-0.2,0.4458,0.0,Modulation features unavailable for this window (neutral contribution)
+749,hive_03,2026-03-17 02:08:31+00:00,2,0.2922,-0.3,0.4889,0.0,Modulation features unavailable for this window (neutral contribution)
+750,hive_03,2026-03-11 22:54:06+00:00,22,0.2922,-0.15,0.4583,0.0,Modulation features unavailable for this window (neutral contribution)
+751,hive_03,2026-03-12 02:54:06+00:00,2,0.2922,-0.3,0.4646,0.0,Modulation features unavailable for this window (neutral contribution)
+752,hive_03,2026-03-09 12:41:45+00:00,12,0.2918,-0.5556,0.3225,0.0,Modulation features unavailable for this window (neutral contribution)
+753,hive_03,2026-03-08 00:03:14+00:00,0,0.2916,-0.2,0.445,0.0,Modulation features unavailable for this window (neutral contribution)
+754,hive_03,2026-03-09 06:41:05+00:00,6,0.2914,-0.45,0.3325,0.0,Modulation features unavailable for this window (neutral contribution)
+755,hive_03,2026-03-07 23:33:14+00:00,23,0.2914,-0.2105,0.4474,0.0,Modulation features unavailable for this window (neutral contribution)
+756,hive_03,2026-03-09 00:40:05+00:00,0,0.2911,-0.2,0.4473,0.0,Modulation features unavailable for this window (neutral contribution)
+757,hive_03,2026-03-12 21:25:25+00:00,21,0.2904,-0.15,0.4783,0.0,Modulation features unavailable for this window (neutral contribution)
+758,hive_03,2026-03-13 05:25:45+00:00,5,0.2868,-0.5,0.441,0.0,Modulation features unavailable for this window (neutral contribution)
+759,hive_03,2026-03-11 21:54:06+00:00,21,0.2868,-0.15,0.4421,0.0,Modulation features unavailable for this window (neutral contribution)
+760,hive_03,2026-03-08 02:33:13+00:00,2,0.2867,-0.3,0.4333,0.0,Modulation features unavailable for this window (neutral contribution)
+761,hive_03,2026-03-10 01:12:25+00:00,1,0.2865,-0.2,0.4372,0.0,Modulation features unavailable for this window (neutral contribution)
+762,hive_03,2026-03-15 12:34:49+00:00,12,0.2861,-0.5556,0.3729,0.0,Modulation features unavailable for this window (neutral contribution)
+763,hive_03,2026-03-08 12:05:46+00:00,12,0.2861,-0.5556,0.3426,0.0,Modulation features unavailable for this window (neutral contribution)
+764,hive_03,2026-03-11 16:51:16+00:00,16,0.2842,-0.4444,0.3677,0.0,Modulation features unavailable for this window (neutral contribution)
+765,hive_03,2026-03-12 04:24:06+00:00,4,0.2842,-0.3,0.4435,0.0,Modulation features unavailable for this window (neutral contribution)
+766,hive_03,2026-03-07 22:33:14+00:00,22,0.2838,-0.15,0.407,0.0,Modulation features unavailable for this window (neutral contribution)
+767,hive_03,2026-03-11 15:51:16+00:00,15,0.2836,-0.4444,0.4126,0.0,Modulation features unavailable for this window (neutral contribution)
+768,hive_03,2026-03-12 07:54:06+00:00,7,0.2832,-0.2,0.4629,0.0,Modulation features unavailable for this window (neutral contribution)
+769,hive_03,2026-03-13 02:55:46+00:00,2,0.2832,-0.3,0.4374,0.0,Modulation features unavailable for this window (neutral contribution)
+770,hive_03,2026-03-16 20:08:10+00:00,20,0.2814,-0.4,0.4016,0.0,Modulation features unavailable for this window (neutral contribution)
+771,hive_03,2026-03-12 02:24:06+00:00,2,0.2809,-0.3,0.462,0.0,Modulation features unavailable for this window (neutral contribution)
+772,hive_03,2026-03-08 00:33:14+00:00,0,0.2804,-0.2,0.4168,0.0,Modulation features unavailable for this window (neutral contribution)
+773,hive_03,2026-03-13 02:25:46+00:00,2,0.2785,-0.3,0.4391,0.0,Modulation features unavailable for this window (neutral contribution)
+774,hive_03,2026-03-10 00:42:25+00:00,0,0.2774,-0.2,0.4194,0.0,Modulation features unavailable for this window (neutral contribution)
+775,hive_03,2026-03-17 00:38:31+00:00,0,0.2769,-0.2,0.4326,0.0,Modulation features unavailable for this window (neutral contribution)
+776,hive_03,2026-03-11 21:24:06+00:00,21,0.2766,-0.15,0.428,0.0,Modulation features unavailable for this window (neutral contribution)
+777,hive_03,2026-03-15 16:05:29+00:00,16,0.2765,-0.4444,0.3206,0.0,Modulation features unavailable for this window (neutral contribution)
+778,hive_03,2026-03-11 13:51:16+00:00,13,0.2764,-0.3889,0.3967,0.0,Modulation features unavailable for this window (neutral contribution)
+779,hive_03,2026-03-11 13:18:31+00:00,13,0.2756,-0.3889,0.3968,0.0,Modulation features unavailable for this window (neutral contribution)
+780,hive_03,2026-03-09 19:11:45+00:00,19,0.2753,-0.1,0.3559,0.0,Modulation features unavailable for this window (neutral contribution)
+781,hive_03,2026-03-12 06:54:06+00:00,6,0.2752,-0.45,0.2978,0.0,Modulation features unavailable for this window (neutral contribution)
+782,hive_03,2026-03-12 21:55:25+00:00,21,0.2731,-0.15,0.4085,0.0,Modulation features unavailable for this window (neutral contribution)
+783,hive_03,2026-03-11 15:21:16+00:00,15,0.2729,-0.4444,0.3766,0.0,Modulation features unavailable for this window (neutral contribution)
+784,hive_03,2026-03-12 03:24:06+00:00,3,0.2718,-0.35,0.3832,0.0,Modulation features unavailable for this window (neutral contribution)
+785,hive_03,2026-03-17 05:08:30+00:00,5,0.2714,-0.5,0.41,0.0,Modulation features unavailable for this window (neutral contribution)
+786,hive_03,2026-03-11 12:17:16+00:00,12,0.2711,-0.5556,0.3495,0.0,Modulation features unavailable for this window (neutral contribution)
+787,hive_03,2026-03-12 05:24:06+00:00,5,0.271,-0.5,0.4019,0.0,Modulation features unavailable for this window (neutral contribution)
+788,hive_03,2026-03-09 07:11:05+00:00,7,0.2707,-0.2,0.3401,0.0,Modulation features unavailable for this window (neutral contribution)
+789,hive_03,2026-03-07 20:03:14+00:00,20,0.2697,-0.4,0.3772,0.0,Modulation features unavailable for this window (neutral contribution)
+790,hive_03,2026-03-09 18:41:45+00:00,18,0.2696,-0.4,0.2622,0.0,Modulation features unavailable for this window (neutral contribution)
+791,hive_03,2026-03-14 13:33:09+00:00,13,0.2693,-0.3889,0.1845,0.0,Modulation features unavailable for this window (neutral contribution)
+792,hive_03,2026-03-11 14:21:16+00:00,14,0.2687,-0.5556,0.3961,0.0,Modulation features unavailable for this window (neutral contribution)
+793,hive_03,2026-03-17 00:08:31+00:00,0,0.2676,-0.2,0.4056,0.0,Modulation features unavailable for this window (neutral contribution)
+794,hive_03,2026-03-17 03:08:31+00:00,3,0.2671,-0.35,0.3664,0.0,Modulation features unavailable for this window (neutral contribution)
+795,hive_03,2026-03-13 07:26:05+00:00,7,0.2661,-0.2,0.3196,0.0,Modulation features unavailable for this window (neutral contribution)
+796,hive_03,2026-03-13 06:56:05+00:00,6,0.2653,-0.45,0.1925,0.0,Modulation features unavailable for this window (neutral contribution)
+797,hive_03,2026-03-16 17:38:10+00:00,17,0.2643,-0.45,0.3484,0.0,Modulation features unavailable for this window (neutral contribution)
+798,hive_03,2026-03-11 20:54:06+00:00,20,0.262,-0.4,0.3899,0.0,Modulation features unavailable for this window (neutral contribution)
+799,hive_03,2026-03-13 03:55:46+00:00,3,0.2608,-0.35,0.3743,0.0,Modulation features unavailable for this window (neutral contribution)
+800,hive_03,2026-03-12 18:55:26+00:00,18,0.2602,-0.4,0.314,0.0,Modulation features unavailable for this window (neutral contribution)
+801,hive_04,2026-03-14 13:32:04+00:00,13,0.26,-0.3889,0.2599,0.0,Modulation features unavailable for this window (neutral contribution)
+802,hive_03,2026-03-08 12:35:46+00:00,12,0.2598,-0.5556,0.3316,0.0,Modulation features unavailable for this window (neutral contribution)
+803,hive_03,2026-03-12 19:55:26+00:00,19,0.2598,-0.1,0.3827,0.0,Modulation features unavailable for this window (neutral contribution)
+804,hive_03,2026-03-11 18:51:36+00:00,18,0.259,-0.4,0.3062,0.0,Modulation features unavailable for this window (neutral contribution)
+805,hive_03,2026-03-11 22:24:06+00:00,22,0.2589,-0.15,0.348,0.0,Modulation features unavailable for this window (neutral contribution)
+806,hive_03,2026-03-12 03:54:06+00:00,3,0.258,-0.35,0.3472,0.0,Modulation features unavailable for this window (neutral contribution)
+807,hive_03,2026-03-17 06:38:30+00:00,6,0.2579,-0.45,0.2257,0.0,Modulation features unavailable for this window (neutral contribution)
+808,hive_03,2026-03-12 08:54:06+00:00,8,0.2557,-0.2632,0.3614,0.0,Modulation features unavailable for this window (neutral contribution)
+809,hive_03,2026-03-09 20:41:45+00:00,20,0.2553,-0.4,0.3734,0.0,Modulation features unavailable for this window (neutral contribution)
+810,hive_03,2026-03-13 04:55:46+00:00,4,0.2541,-0.3,0.3393,0.0,Modulation features unavailable for this window (neutral contribution)
+811,hive_03,2026-03-17 04:38:30+00:00,4,0.252,-0.3,0.3639,0.0,Modulation features unavailable for this window (neutral contribution)
+812,hive_03,2026-03-09 16:41:45+00:00,16,0.2512,-0.4444,0.2226,0.0,Modulation features unavailable for this window (neutral contribution)
+813,hive_03,2026-03-12 04:54:06+00:00,4,0.2509,-0.3,0.3375,0.0,Modulation features unavailable for this window (neutral contribution)
+814,hive_03,2026-03-12 19:25:26+00:00,19,0.2503,-0.1,0.3535,0.0,Modulation features unavailable for this window (neutral contribution)
+815,hive_03,2026-03-17 01:08:31+00:00,1,0.2497,-0.2,0.3328,0.0,Modulation features unavailable for this window (neutral contribution)
+816,hive_03,2026-03-15 16:35:29+00:00,16,0.2497,-0.4444,0.3266,0.0,Modulation features unavailable for this window (neutral contribution)
+817,hive_03,2026-03-17 04:08:30+00:00,4,0.2481,-0.3,0.3464,0.0,Modulation features unavailable for this window (neutral contribution)
+818,hive_03,2026-03-12 20:25:26+00:00,20,0.2472,-0.4,0.334,0.0,Modulation features unavailable for this window (neutral contribution)
+819,hive_03,2026-03-11 20:24:06+00:00,20,0.2448,-0.4,0.3414,0.0,Modulation features unavailable for this window (neutral contribution)
+820,hive_03,2026-03-11 19:52:06+00:00,19,0.2447,-0.1,0.3447,0.0,Modulation features unavailable for this window (neutral contribution)
+821,hive_03,2026-03-13 01:55:46+00:00,1,0.2439,-0.2,0.3438,0.0,Modulation features unavailable for this window (neutral contribution)
+822,hive_03,2026-03-13 00:25:46+00:00,0,0.2437,-0.2,0.2469,0.0,Modulation features unavailable for this window (neutral contribution)
+823,hive_03,2026-03-13 03:25:46+00:00,3,0.2428,-0.35,0.3071,0.0,Modulation features unavailable for this window (neutral contribution)
+824,hive_03,2026-03-09 13:41:45+00:00,13,0.2421,-0.3889,0.1609,0.0,Modulation features unavailable for this window (neutral contribution)
+825,hive_03,2026-03-16 23:38:31+00:00,23,0.2409,-0.2105,0.3012,0.0,Modulation features unavailable for this window (neutral contribution)
+826,hive_03,2026-03-12 07:24:06+00:00,7,0.2389,-0.2,0.242,0.0,Modulation features unavailable for this window (neutral contribution)
+827,hive_03,2026-03-09 20:11:45+00:00,20,0.2367,-0.4,0.317,0.0,Modulation features unavailable for this window (neutral contribution)
+828,hive_03,2026-03-12 22:25:25+00:00,22,0.2364,-0.15,0.2791,0.0,Modulation features unavailable for this window (neutral contribution)
+829,hive_03,2026-03-11 23:54:06+00:00,23,0.2364,-0.2105,0.3049,0.0,Modulation features unavailable for this window (neutral contribution)
+830,hive_03,2026-03-12 00:24:06+00:00,0,0.2356,-0.2,0.3215,0.0,Modulation features unavailable for this window (neutral contribution)
+831,hive_03,2026-03-15 18:05:29+00:00,18,0.2355,-0.4,0.3259,0.0,Modulation features unavailable for this window (neutral contribution)
+832,hive_03,2026-03-15 19:35:29+00:00,19,0.2347,-0.1,0.3208,0.0,Modulation features unavailable for this window (neutral contribution)
+833,hive_03,2026-03-09 19:41:45+00:00,19,0.2341,-0.1,0.3145,0.0,Modulation features unavailable for this window (neutral contribution)
+834,hive_03,2026-03-12 20:55:25+00:00,20,0.234,-0.4,0.2998,0.0,Modulation features unavailable for this window (neutral contribution)
+835,hive_03,2026-03-11 23:24:06+00:00,23,0.2327,-0.2105,0.2771,0.0,Modulation features unavailable for this window (neutral contribution)
+836,hive_03,2026-03-17 01:38:31+00:00,1,0.2316,-0.2,0.2809,0.0,Modulation features unavailable for this window (neutral contribution)
+837,hive_03,2026-03-17 03:38:31+00:00,3,0.2301,-0.35,0.2654,0.0,Modulation features unavailable for this window (neutral contribution)
+838,hive_03,2026-03-13 01:25:46+00:00,1,0.2293,-0.2,0.3091,0.0,Modulation features unavailable for this window (neutral contribution)
+839,hive_03,2026-03-12 00:54:06+00:00,0,0.2288,-0.2,0.293,0.0,Modulation features unavailable for this window (neutral contribution)
+840,hive_03,2026-03-17 07:08:30+00:00,7,0.2286,-0.2,0.0842,0.0,Modulation features unavailable for this window (neutral contribution)
+841,hive_03,2026-03-15 19:05:29+00:00,19,0.2276,-0.1,0.2905,0.0,Modulation features unavailable for this window (neutral contribution)
+842,hive_03,2026-03-15 18:35:29+00:00,18,0.2268,-0.4,0.2871,0.0,Modulation features unavailable for this window (neutral contribution)
+843,hive_03,2026-03-15 20:35:29+00:00,20,0.2244,-0.4,0.2835,0.0,Modulation features unavailable for this window (neutral contribution)
+844,hive_03,2026-03-15 17:35:29+00:00,17,0.2231,-0.45,0.2766,0.0,Modulation features unavailable for this window (neutral contribution)
+845,hive_03,2026-03-11 19:21:36+00:00,19,0.2231,-0.1,0.2694,0.0,Modulation features unavailable for this window (neutral contribution)
+846,hive_03,2026-03-15 17:05:29+00:00,17,0.2216,-0.45,0.2643,0.0,Modulation features unavailable for this window (neutral contribution)
+847,hive_03,2026-03-17 08:08:30+00:00,8,0.2209,-0.2632,0.2842,0.0,Modulation features unavailable for this window (neutral contribution)
+848,hive_03,2026-03-12 08:24:06+00:00,8,0.2203,-0.2632,0.2431,0.0,Modulation features unavailable for this window (neutral contribution)
+849,hive_03,2026-03-12 01:24:06+00:00,1,0.2183,-0.2,0.2552,0.0,Modulation features unavailable for this window (neutral contribution)
+850,hive_03,2026-03-15 20:05:29+00:00,20,0.2173,-0.4,0.2489,0.0,Modulation features unavailable for this window (neutral contribution)
+851,hive_03,2026-03-13 00:55:46+00:00,0,0.217,-0.2,0.2684,0.0,Modulation features unavailable for this window (neutral contribution)
+852,hive_03,2026-03-09 07:41:05+00:00,7,0.2144,-0.2,0.2212,0.0,Modulation features unavailable for this window (neutral contribution)
+853,hive_03,2026-03-12 01:54:06+00:00,1,0.2122,-0.2,0.2342,0.0,Modulation features unavailable for this window (neutral contribution)
+854,hive_03,2026-03-17 07:38:30+00:00,7,0.2077,-0.2,0.2287,0.0,Modulation features unavailable for this window (neutral contribution)

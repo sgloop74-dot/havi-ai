@@ -10,3 +10,4 @@ pyarrow
 tqdm
 matplotlib
 seaborn
+tabulate
